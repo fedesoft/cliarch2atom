@@ -1,0 +1,4 @@
+php '/usr/share/nginx/atom/symfony' 'csv:repository-import' --index --quiet --source-name='fudepa.csv' '/usr/share/nginx/atom/uploads/tmp/TMP1499ec88.csv'
+php '/usr/share/nginx/atom/symfony' 'csv:authority-import' --index     --quiet  --source-name='personas_ra.csv'  '/usr/share/nginx/atom/uploads/tmp/TMP4413eb20.csv'
+php '/usr/share/nginx/atom/symfony' 'csv:import' --index     --quiet --user-id="448" --source-name='fondo_ugt_a1_01.csv'  '/usr/share/nginx/atom/uploads/tmp/TMP7b07f16b.csv'
+php '/usr/share/nginx/atom/symfony' 'csv:import' --index     --quiet --user-id="448" --source-name='fondo_ugt_a1_11.csv'  '/usr/share/nginx/atom/uploads/tmp/TMPe08d88a3.csv'

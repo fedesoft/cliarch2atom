@@ -1,0 +1,1955 @@
+"ID"|"nombre"|"padre_ID"|"niveldescripcion_ID"
+A0|ADMINISTRADOR|-1|0
+A0.01|Proyectos|A0|0
+A0.01.02|Pruebas SIOSA|A0.01|0
+A1|Fondos Documentales||1
+A1.01|Unión Provincial de Almería|A1|3
+A1.01.01|Congreso|A1.01|4
+A1.01.01.01|Congresos Ordinarios|A1.01.01|7
+A1.01.01.02|Congresos Extraordinarios|A1.01.01|7
+A1.01.02|Comité|A1.01|4
+A1.01.02.01|Comités Ordinarios|A1.01.02|7
+A1.01.02.02|Comités Extraordinarios|A1.01.02|7
+A1.01.03|Comisión Ejecutiva|A1.01|4
+A1.01.03.01|Secretaría General|A1.01.03|5
+A1.01.03.01.01| Secretaría|A1.01.03.01|6
+A1.01.03.01.01.01| Correspondencia|A1.01.03.01.01|7
+A1.01.03.02|Organización|A1.01.03|5
+A1.01.03.02.01|Afiliaciones|A1.01.03.02|6
+A1.01.03.02.01.01| Correspondencia|A1.01.03.02.01|7
+A1.01.03.02.01.02| Expedientes de afiliaciones|A1.01.03.02.01|7
+A1.01.03.02.01.03| Informes|A1.01.03.02.01|7
+A1.01.03.02.01.04| Litados|A1.01.03.02.01|7
+A1.01.03.02.01.05| Planes de trabajo|A1.01.03.02.01|7
+A1.01.03.02.02|Comarcas|A1.01.03.02|6
+A1.01.03.02.02.01| Correspondencia|A1.01.03.02.02|7
+A1.01.03.02.02.02| Expedientes de reunión|A1.01.03.02.02|7
+A1.01.03.02.02.04| Documentación de Congresos y Comités|A1.01.03.02.02|7
+A1.01.03.02.03|Elecciones Sindicales|A1.01.03.02|6
+A1.01.03.02.03.01| Correspondencia|A1.01.03.02.03|7
+A1.01.03.02.03.02| Expedientes de Elecciones Sindicales|A1.01.03.02.03|7
+A1.01.03.02.03.03| Informes y planes de trabajo|A1.01.03.02.03|7
+A1.01.03.02.03.04| Demandas y Sentencias|A1.01.03.02.03|7
+A1.01.03.02.03.05| Laudos|A1.01.03.02.03|7
+A1.01.03.02.03.06| Delegados y representantes sindicales|A1.01.03.02.03|7
+A1.01.03.02.03.07| Listados|A1.01.03.02.03|7
+A1.01.03.02.03.08| Expedientes de reunión|A1.01.03.02.03|7
+A1.01.03.02.03.09| Comité Electoral|A1.01.03.02.03|7
+A1.01.03.02.03.10| POSI|A1.01.03.02.03|7
+A1.01.03.02.04|Huelgas|A1.01.03.02|6
+A1.01.03.02.04.01| Correspondencia|A1.01.03.02.04|7
+A1.01.03.02.04.02| Expedientes de huelgas y movilizaciones|A1.01.03.02.04|7
+A1.01.03.02.05|Secretaría|A1.01.03.02|6
+A1.01.03.02.05.01| Correspondencia|A1.01.03.02.05|7
+A1.01.03.02.05.02| Expedientes de reunión|A1.01.03.02.05|7
+A1.01.03.02.05.03| Informes y planes de trabajo|A1.01.03.02.05|7
+A1.01.03.02.05.04| Documentación de Congresos y Comités|A1.01.03.02.05|7
+A1.01.03.02.05.05| Secciones sindicales|A1.01.03.02.05|7
+A1.01.03.02.05.06| Normativa|A1.01.03.02.05|7
+A1.01.03.02.05.08| Jornadas y cursos|A1.01.03.02.05|7
+A1.01.03.03|Administración|A1.01.03|5
+A1.01.03.03.01|Contabilidad|A1.01.03.03|6
+A1.01.03.03.02|Cuotas|A1.01.03.03|6
+A1.01.03.03.03|Informática|A1.01.03.03|6
+A1.01.03.03.04|Patrimonio|A1.01.03.03|6
+A1.01.03.03.05|Personal|A1.01.03.03|6
+A1.01.03.03.06|Secretaría|A1.01.03.03|6
+A1.01.03.03.06.01|Correspondencia|A1.01.03.03.06|7
+A1.01.03.03.06.99|Varios|A1.01.03.03.06|7
+A1.01.03.03.07|Tiempo Libre|A1.01.03.03|6
+A1.01.03.03.08| Servicios al afiliado|A1.01.03.03|6
+A1.01.03.03.09| Empresas colaboradoras|A1.01.03.03|6
+A1.01.03.04|Acción Sindical|A1.01.03|5
+A1.01.03.04.01|Conciliación de conflictos colectivos|A1.01.03.04|6
+A1.01.03.04.01.01| Conciliaciones|A1.01.03.04.01|7
+A1.01.03.04.02|Empleo|A1.01.03.04|6
+A1.01.03.04.02.01|Expedientes de regulación de empleo|A1.01.03.04.02|7
+A1.01.03.04.02.02|Informes|A1.01.03.04.02|7
+A1.01.03.04.03|Negociación Colectiva|A1.01.03.04|6
+A1.01.03.04.03.01| Convenios colectivos|A1.01.03.04.03|7
+A1.01.03.04.03.02| Correspondencia|A1.01.03.04.03|7
+A1.01.03.04.03.03| Informes|A1.01.03.04.03|7
+A1.01.03.04.03.04| Jornadas|A1.01.03.04.03|7
+A1.01.03.04.04|Promoción económica|A1.01.03.04|6
+A1.01.03.04.04.01| Informes|A1.01.03.04.04|7
+A1.01.03.04.04.02| Jornadas|A1.01.03.04.04|7
+A1.01.03.04.05|Relaciones laborales|A1.01.03.04|6
+A1.01.03.04.05.01| Correspondencia|A1.01.03.04.05|7
+A1.01.03.04.05.02| Informes|A1.01.03.04.05|7
+A1.01.03.04.05.03| Sentencias|A1.01.03.04.05|7
+A1.01.03.04.06|Salud Laboral|A1.01.03.04|6
+A1.01.03.04.06.01| Correspondencia|A1.01.03.04.06|7
+A1.01.03.04.06.02| Informes|A1.01.03.04.06|7
+A1.01.03.04.06.03| Jornadas|A1.01.03.04.06|7
+A1.01.03.04.07|Secretaría|A1.01.03.04|6
+A1.01.03.04.07.01| Correspondencia|A1.01.03.04.07|7
+A1.01.03.04.07.02| Informes|A1.01.03.04.07|7
+A1.01.03.04.07.03| Jornadas|A1.01.03.04.07|7
+A1.01.03.05|Formación|A1.01.03|5
+A1.01.03.05.01|Biblioteca|A1.01.03.05|6
+A1.01.03.05.02|Secretaría|A1.01.03.05|6
+A1.01.03.05.02.01|Correspondencia|A1.01.03.05.02|7
+A1.01.03.05.02.02|Cursos|A1.01.03.05.02|7
+A1.01.03.05.02.03|Jornadas|A1.01.03.05.02|7
+A1.01.03.06|Acción Social|A1.01.03|5
+A1.01.03.06.01|Cooperación|A1.01.03.06|6
+A1.01.03.06.02|Juventud|A1.01.03.06|6
+A1.01.03.06.03|Medio Ambiente|A1.01.03.06|6
+A1.01.03.06.04|Migraciones|A1.01.03.06|6
+A1.01.03.06.05|Mujer|A1.01.03.06|6
+A1.01.03.06.06|Secretaría|A1.01.03.06|6
+A1.01.03.06.07|Servicios sociales|A1.01.03.06|6
+A1.01.03.07|Acción Institucional|A1.01.03|5
+A1.01.03.07.01|Participación Admón. Central y Autonómica|A1.01.03.07|6
+A1.01.03.07.01.01|Acuerdos y convenios|A1.01.03.07.01|7
+A1.01.03.07.01.02|Borradores|A1.01.03.07.01|7
+A1.01.03.07.01.03|Correspondencia|A1.01.03.07.01|7
+A1.01.03.07.01.05|Expedientes de reunión|A1.01.03.07.01|7
+A1.01.03.07.01.06|Informes|A1.01.03.07.01|7
+A1.01.03.07.01.07| Jornadas, seminarios, congresos|A1.01.03.07.01|7
+A1.01.03.07.01.08| Memorias|A1.01.03.07.01|7
+A1.01.03.07.01.09|Proyectos e iniciativas|A1.01.03.07.01|7
+A1.01.03.07.01.10|Documentación de apoyo|A1.01.03.07.01|7
+A1.01.03.07.01.99|Otros tipos documentales|A1.01.03.07.01|7
+A1.01.03.07.02|Participación Admón. Provincial, Local y Comarcal|A1.01.03.07|6
+A1.01.03.07.02.01|Acuerdos y convenios|A1.01.03.07.02|7
+A1.01.03.07.02.02|Borradores|A1.01.03.07.02|7
+A1.01.03.07.02.03|Correspondencia|A1.01.03.07.02|7
+A1.01.03.07.02.04|Expedientes de participación|A1.01.03.07.02|7
+A1.01.03.07.02.05|Expedientes de reunión|A1.01.03.07.02|7
+A1.01.03.07.02.06|Informes|A1.01.03.07.02|7
+A1.01.03.07.02.07| Jornadas, seminarios, congresos|A1.01.03.07.02|7
+A1.01.03.07.02.08|Memorias|A1.01.03.07.02|7
+A1.01.03.07.02.09|Proyectos e iniciativas|A1.01.03.07.02|7
+A1.01.03.07.02.10|Documentación de apoyo|A1.01.03.07.02|7
+A1.01.03.07.02.99| Otros tipos documentales|A1.01.03.07.02|7
+A1.01.03.07.03|Participación en órganos de la Universidad|A1.01.03.07|6
+A1.01.03.07.03.01|Acuerdos y convenios|A1.01.03.07.03|7
+A1.01.03.07.03.02|Borradores|A1.01.03.07.03|7
+A1.01.03.07.03.03| Correspondencia|A1.01.03.07.03|7
+A1.01.03.07.03.05| Expedientes de reunión|A1.01.03.07.03|7
+A1.01.03.07.03.06| Informes|A1.01.03.07.03|7
+A1.01.03.07.03.07| Jornadas, seminarios, congresos|A1.01.03.07.03|7
+A1.01.03.07.03.09| Proyectos e iniciativas|A1.01.03.07.03|7
+A1.01.03.07.03.10| Documentación de apoyo|A1.01.03.07.03|7
+A1.01.03.07.03.99| Otros tipos documentales|A1.01.03.07.03|0
+A1.01.03.07.04|Participación en otros Órganos o Proyectos|A1.01.03.07|6
+A1.01.03.07.04.01| Acuerdos y convenios|A1.01.03.07.04|7
+A1.01.03.07.04.02| Borradores|A1.01.03.07.04|7
+A1.01.03.07.04.03| Correspondencia|A1.01.03.07.04|7
+A1.01.03.07.04.05| Expedientes de reunión|A1.01.03.07.04|7
+A1.01.03.07.04.06| Informes|A1.01.03.07.04|7
+A1.01.03.07.04.08| Memorias|A1.01.03.07.04|7
+A1.01.03.07.04.09|Proyectos e iniciativas|A1.01.03.07.04|7
+A1.01.03.07.04.10| Documentación de apoyo|A1.01.03.07.04|7
+A1.01.03.07.04.99|Otros tipos documentales|A1.01.03.07.04|7
+A1.01.03.07.05|Otras Actividades|A1.01.03.07|6
+A1.01.03.07.05.01|Acuerdos y convenios|A1.01.03.07.05|7
+A1.01.03.07.05.02| Borradores|A1.01.03.07.05|7
+A1.01.03.07.05.03|Correspondencia|A1.01.03.07.05|7
+A1.01.03.07.05.05| Expedientes de reunión|A1.01.03.07.05|7
+A1.01.03.07.05.06|Informes|A1.01.03.07.05|7
+A1.01.03.07.05.07| Jornadas, seminarios, congresos|A1.01.03.07.05|7
+A1.01.03.07.05.08| Memorias|A1.01.03.07.05|7
+A1.01.03.07.05.09|Proyectos e iniciativas|A1.01.03.07.05|7
+A1.01.03.07.05.10| Documentación de apoyo|A1.01.03.07.05|7
+A1.01.03.07.05.99|Otros tipos documentales|A1.01.03.07.05|7
+A1.01.03.08|Comunicación e Imagen|A1.01.03|5
+A1.01.04|Consejo|A1.01|4
+A1.01.05|Comisión de Control Económico|A1.01|4
+A1.01.06|Comisión de Garantías|A1.01|4
+A1.01.07|Asesoría Jurídica|A1.01|4
+A1.01.07.01|Expedientes Jurídicos|A1.01.07|7
+A1.01.08|Federaciones|A1.01|4
+A1.02|Unión Provincial de Cádiz|A1|3
+A1.02.01|Congreso|A1.02|4
+A1.02.01.01|Congresos Ordinarios|A1.02.01|7
+A1.02.01.02|Congresos Extraordinarios|A1.02.01|7
+A1.02.01.03|Congresos Comarcales|A1.02.01|7
+A1.02.02|Comité|A1.02|4
+A1.02.02.01|Comités Ordinarios|A1.02.02|7
+A1.02.02.02|Comités Extraordinarios|A1.02.02|7
+A1.02.02.03|Comités Comarcales|A1.02.02|7
+A1.02.03|Comisión Ejecutiva|A1.02|4
+A1.02.03.01|Secretaría General|A1.02.03|5
+A1.02.03.01.01|Secretaría|A1.02.03.01|6
+A1.02.03.01.01.01|Correspondencia|A1.02.03.01.01|7
+A1.02.03.01.01.02|Actas|A1.02.03.01.01|7
+A1.02.03.02|Organización|A1.02.03|5
+A1.02.03.02.01|Afiliaciones|A1.02.03.02|6
+A1.02.03.02.01.01|Correspondencia|A1.02.03.02.01|7
+A1.02.03.02.01.02|Expedientes de afiliaciones|A1.02.03.02.01|7
+A1.02.03.02.01.03|Informes|A1.02.03.02.01|7
+A1.02.03.02.01.04|Listados|A1.02.03.02.01|7
+A1.02.03.02.01.05|Jornadas|A1.02.03.02.01|7
+A1.02.03.02.01.99|Varios|A1.02.03.02.01|7
+A1.02.03.02.02|Comarcas|A1.02.03.02|6
+A1.02.03.02.02.01|Correspondencia|A1.02.03.02.02|7
+A1.02.03.02.02.02|Expedientes de reunión|A1.02.03.02.02|7
+A1.02.03.02.02.03|Informes|A1.02.03.02.02|7
+A1.02.03.02.02.99|Varios|A1.02.03.02.02|7
+A1.02.03.02.03|Elecciones Sindicales|A1.02.03.02|6
+A1.02.03.02.03.01|Correspondencia|A1.02.03.02.03|7
+A1.02.03.02.03.02|Expedientes de Elecciones Sindicales|A1.02.03.02.03|7
+A1.02.03.02.03.03|Informes y planes de trabajo|A1.02.03.02.03|7
+A1.02.03.02.03.04|Demandas y Sentencias|A1.02.03.02.03|7
+A1.02.03.02.03.06|Delegados y representantes sindicales|A1.02.03.02.03|7
+A1.02.03.02.03.07|Listados|A1.02.03.02.03|7
+A1.02.03.02.03.08|Expedientes de reunión|A1.02.03.02.03|7
+A1.02.03.02.03.09|Comité electoral|A1.02.03.02.03|7
+A1.02.03.02.03.10|POSI|A1.02.03.02.03|7
+A1.02.03.02.03.99|Varios|A1.02.03.02.03|7
+A1.02.03.02.04|Huelgas|A1.02.03.02|6
+A1.02.03.02.04.01|Correspondencia|A1.02.03.02.04|7
+A1.02.03.02.04.02|Expedientes de huelgas y movilizaciones|A1.02.03.02.04|7
+A1.02.03.02.04.03|Manifiestos y discursos|A1.02.03.02.04|7
+A1.02.03.02.05|Secretaría|A1.02.03.02|6
+A1.02.03.02.05.01|Correspondencia|A1.02.03.02.05|7
+A1.02.03.02.05.02|Expedientes de reunión|A1.02.03.02.05|7
+A1.02.03.02.05.03|Informes y planes de trabajo|A1.02.03.02.05|7
+A1.02.03.02.05.04|Documentación de Congresos y Comités|A1.02.03.02.05|7
+A1.02.03.02.05.05|Secciones sindicales|A1.02.03.02.05|7
+A1.02.03.02.05.06|Normativa|A1.02.03.02.05|7
+A1.02.03.02.05.07|Expedientes de conflictos orgánicos|A1.02.03.02.05|7
+A1.02.03.02.05.08|Jornadas y cursos|A1.02.03.02.05|7
+A1.02.03.02.05.99|Varios|A1.02.03.02.05|7
+A1.02.03.03|Administración|A1.02.03|5
+A1.02.03.03.01|Contabilidad|A1.02.03.03|6
+A1.02.03.03.02|Cuotas|A1.02.03.03|6
+A1.02.03.03.03|Informática|A1.02.03.03|6
+A1.02.03.03.04|Patrimonio|A1.02.03.03|6
+A1.02.03.03.05|Personal|A1.02.03.03|6
+A1.02.03.03.06|Secretaría|A1.02.03.03|6
+A1.02.03.03.07|Tiempo Libre|A1.02.03.03|6
+A1.02.03.04|Acción Sindical|A1.02.03|5
+A1.02.03.04.01|Conciliación de conflictos colectivos|A1.02.03.04|6
+A1.02.03.04.02|Empleo|A1.02.03.04|6
+A1.02.03.04.02.01|Expedientes de regulación de empleo|A1.02.03.04.02|7
+A1.02.03.04.02.02|Informes|A1.02.03.04.02|7
+A1.02.03.04.02.03|Correspondencia|A1.02.03.04.02|7
+A1.02.03.04.03|Negociación Colectiva|A1.02.03.04|6
+A1.02.03.04.04|Promoción económica|A1.02.03.04|6
+A1.02.03.04.05|Relaciones laborales|A1.02.03.04|6
+A1.02.03.04.06|Salud Laboral|A1.02.03.04|6
+A1.02.03.04.07|Secretaría|A1.02.03.04|6
+A1.02.03.05|Formación|A1.02.03|5
+A1.02.03.05.01|Biblioteca|A1.02.03.05|6
+A1.02.03.05.02|Secretaría|A1.02.03.05|6
+A1.02.03.05.02.01|Correspondencia|A1.02.03.05.02|7
+A1.02.03.05.02.02|Cursos|A1.02.03.05.02|7
+A1.02.03.05.02.03|Jornadas|A1.02.03.05.02|7
+A1.02.03.06|Acción Social|A1.02.03|5
+A1.02.03.06.01|Cooperación|A1.02.03.06|6
+A1.02.03.06.02|Juventud|A1.02.03.06|6
+A1.02.03.06.03|Medio Ambiente|A1.02.03.06|6
+A1.02.03.06.04|Migraciones|A1.02.03.06|6
+A1.02.03.06.05|Mujer|A1.02.03.06|6
+A1.02.03.06.06|Secretaría|A1.02.03.06|6
+A1.02.03.06.07|Servicios sociales|A1.02.03.06|6
+A1.02.03.07|Acción Institucional|A1.02.03|5
+A1.02.03.07.01|Acuerdos y convenios|A1.02.03.07|7
+A1.02.03.07.02|Borradores|A1.02.03.07|7
+A1.02.03.07.03|Correspondencia|A1.02.03.07|7
+A1.02.03.07.05|Expedientes de reunión|A1.02.03.07|7
+A1.02.03.07.06|Informes|A1.02.03.07|7
+A1.02.03.07.07|Jornadas, seminarios, congresos|A1.02.03.07|7
+A1.02.03.07.08|Memorias|A1.02.03.07|7
+A1.02.03.07.09|Proyectos e iniciativas|A1.02.03.07|7
+A1.02.03.07.10|Documentación de apoyo|A1.02.03.07|7
+A1.02.03.07.99|Otros tipos documentales|A1.02.03.07|7
+A1.02.03.08|Comunicación e Imagen|A1.02.03|5
+A1.02.04|Consejo|A1.02|4
+A1.02.05|Comisión de Control Económico|A1.02|4
+A1.02.06|Comisión de Garantías|A1.02|4
+A1.02.07|Asesoría Jurídica|A1.02|4
+A1.02.07.01|Expedientes Jurídicos|A1.02.07|7
+A1.02.07.02|Demandas|A1.02.07|7
+A1.02.07.03|Laudos|A1.02.07|7
+A1.02.08|Federaciones|A1.02|4
+A1.03|Unión Provincial de Córdoba|A1|3
+A1.03.01|Congreso|A1.03|4
+A1.03.01.01|Congresos Ordinarios|A1.03.01|7
+A1.03.01.02|Congresos Extraordinarios|A1.03.01|7
+A1.03.02|Comité|A1.03|4
+A1.03.02.01|Comités Ordinarios|A1.03.02|7
+A1.03.02.02|Comités Extraordinarios|A1.03.02|7
+A1.03.02.03|Comités Comarcales|A1.03.02|7
+A1.03.03|Comisión Ejecutiva|A1.03|4
+A1.03.03.01|Secretaría General|A1.03.03|5
+A1.03.03.01.01|Secretaría|A1.03.03.01|6
+A1.03.03.02|Organización|A1.03.03|5
+A1.03.03.02.01|Afiliaciones|A1.03.03.02|6
+A1.03.03.02.01.01|Correspondencia|A1.03.03.02.01|7
+A1.03.03.02.01.02|Expedientes de afiliaciones|A1.03.03.02.01|7
+A1.03.03.02.01.03|Informes|A1.03.03.02.01|7
+A1.03.03.02.01.04|Listados|A1.03.03.02.01|7
+A1.03.03.02.01.05|Planes de trabajo|A1.03.03.02.01|7
+A1.03.03.02.01.99|Varios|A1.03.03.02.01|7
+A1.03.03.02.02|Comarcas|A1.03.03.02|6
+A1.03.03.02.02.01|Correspondencia|A1.03.03.02.02|7
+A1.03.03.02.02.02|Expedientes de reunión|A1.03.03.02.02|7
+A1.03.03.02.02.04|Documentación de Congresos y Comités|A1.03.03.02.02|7
+A1.03.03.02.02.99|Varios|A1.03.03.02.02|7
+A1.03.03.02.03|Elecciones Sindicales|A1.03.03.02|6
+A1.03.03.02.03.01|Correspondencia|A1.03.03.02.03|7
+A1.03.03.02.03.02|Expedientes de Elecciones Sindicales|A1.03.03.02.03|7
+A1.03.03.02.03.03|Informes y planes de trabajo|A1.03.03.02.03|7
+A1.03.03.02.03.04|Demandas y Sentencias|A1.03.03.02.03|7
+A1.03.03.02.03.05|Laudos|A1.03.03.02.03|7
+A1.03.03.02.03.06|Delegados y representantes sindicales|A1.03.03.02.03|7
+A1.03.03.02.03.07|Listados|A1.03.03.02.03|7
+A1.03.03.02.03.08|Expedientes de reunión|A1.03.03.02.03|7
+A1.03.03.02.03.09|Comité Electoral|A1.03.03.02.03|7
+A1.03.03.02.03.10|POSI|A1.03.03.02.03|7
+A1.03.03.02.03.99|Varios|A1.03.03.02.03|7
+A1.03.03.02.04|Huelgas y movilizaciones|A1.03.03.02|6
+A1.03.03.02.04.01|Correspondencia|A1.03.03.02.04|7
+A1.03.03.02.04.02|Expedientes de huelgas y movilizaciones|A1.03.03.02.04|7
+A1.03.03.02.04.99|Varios|A1.03.03.02.04|7
+A1.03.03.02.05|Secretaría|A1.03.03.02|6
+A1.03.03.02.05.01|Correspondencia|A1.03.03.02.05|7
+A1.03.03.02.05.02|Expedientes de reunión|A1.03.03.02.05|7
+A1.03.03.02.05.03|Informes y planes de trabajo|A1.03.03.02.05|7
+A1.03.03.02.05.04|Documentación de Congresos y Comités|A1.03.03.02.05|7
+A1.03.03.02.05.05|Secciones sindicales|A1.03.03.02.05|7
+A1.03.03.02.05.06|Normativa|A1.03.03.02.05|7
+A1.03.03.02.05.08|Jornadas y cursos|A1.03.03.02.05|7
+A1.03.03.02.05.99|Varios|A1.03.03.02.05|7
+A1.03.03.03|Administración|A1.03.03|5
+A1.03.03.03.01|Contabilidad|A1.03.03.03|6
+A1.03.03.03.02|Cuotas|A1.03.03.03|6
+A1.03.03.03.03|Informática|A1.03.03.03|6
+A1.03.03.03.04|Patrimonio|A1.03.03.03|6
+A1.03.03.03.05|Personal|A1.03.03.03|6
+A1.03.03.03.06|Secretaría|A1.03.03.03|6
+A1.03.03.03.06.01|Correspondencia|A1.03.03.03.06|7
+A1.03.03.03.06.99|Varios|A1.03.03.03.06|7
+A1.03.03.03.07|Tiempo Libre|A1.03.03.03|6
+A1.03.03.03.08|Servicios al afiliado|A1.03.03.03|6
+A1.03.03.03.09|Empresas colaboradoras|A1.03.03.03|6
+A1.03.03.04|Acción Sindical|A1.03.03|5
+A1.03.03.04.01|Conciliación de conflictos colectivos|A1.03.03.04|6
+A1.03.03.04.01.01|Conciliaciones|A1.03.03.04.01|7
+A1.03.03.04.02|Empleo|A1.03.03.04|6
+A1.03.03.04.02.01|Expedientes de regulación de empleo|A1.03.03.04.02|7
+A1.03.03.04.02.02|Informes|A1.03.03.04.02|7
+A1.03.03.04.02.03|Correspondencia|A1.03.03.04.02|7
+A1.03.03.04.03|Negociación Colectiva|A1.03.03.04|6
+A1.03.03.04.03.01|Convenios colectivos|A1.03.03.04.03|7
+A1.03.03.04.03.02|Correspondencia|A1.03.03.04.03|7
+A1.03.03.04.03.03|Informes|A1.03.03.04.03|7
+A1.03.03.04.03.04|Jornadas|A1.03.03.04.03|7
+A1.03.03.04.04|Promoción económica|A1.03.03.04|6
+A1.03.03.04.04.01|Informes|A1.03.03.04.04|7
+A1.03.03.04.04.02|Jornadas|A1.03.03.04.04|7
+A1.03.03.04.05|Relaciones laborales|A1.03.03.04|6
+A1.03.03.04.05.01|Correspondencia|A1.03.03.04.05|7
+A1.03.03.04.05.02|Informes|A1.03.03.04.05|7
+A1.03.03.04.05.03|Sentencias|A1.03.03.04.05|7
+A1.03.03.04.06|Salud Laboral|A1.03.03.04|6
+A1.03.03.04.06.01|Correspondencia|A1.03.03.04.06|7
+A1.03.03.04.06.02|Informes|A1.03.03.04.06|7
+A1.03.03.04.06.03|Jornadas|A1.03.03.04.06|7
+A1.03.03.04.07|Secretaría|A1.03.03.04|6
+A1.03.03.04.07.01|Correspondencia|A1.03.03.04.07|7
+A1.03.03.04.07.02|Informes|A1.03.03.04.07|7
+A1.03.03.04.07.03|Jornadas|A1.03.03.04.07|7
+A1.03.03.05|Formación|A1.03.03|5
+A1.03.03.05.01|Biblioteca|A1.03.03.05|6
+A1.03.03.05.02|Secretaría|A1.03.03.05|6
+A1.03.03.05.02.01|Correspondencia|A1.03.03.05.02|7
+A1.03.03.05.02.02|Cursos|A1.03.03.05.02|7
+A1.03.03.05.02.03|Jornadas|A1.03.03.05.02|7
+A1.03.03.06|Acción Social|A1.03.03|5
+A1.03.03.06.01|Cooperación|A1.03.03.06|6
+A1.03.03.06.02|Juventud|A1.03.03.06|6
+A1.03.03.06.03|Medio Ambiente|A1.03.03.06|6
+A1.03.03.06.04|Migraciones|A1.03.03.06|6
+A1.03.03.06.05|Mujer|A1.03.03.06|6
+A1.03.03.06.06|Secretaría|A1.03.03.06|6
+A1.03.03.06.07|Servicios sociales|A1.03.03.06|6
+A1.03.03.07|Acción Institucional|A1.03.03|5
+A1.03.03.07.01|Participación  Admón. Central y Autonómica|A1.03.03.07|6
+A1.03.03.07.01.01|Acuerdos y convenios|A1.03.03.07.01|7
+A1.03.03.07.01.02|Borradores|A1.03.03.07.01|7
+A1.03.03.07.01.03|Correspondencia|A1.03.03.07.01|7
+A1.03.03.07.01.05|Expedientes de reunión|A1.03.03.07.01|7
+A1.03.03.07.01.06|Informes|A1.03.03.07.01|7
+A1.03.03.07.01.07|Jornadas, seminarios, congresos|A1.03.03.07.01|7
+A1.03.03.07.01.08|Memorias|A1.03.03.07.01|7
+A1.03.03.07.01.09|Proyectos e iniciativas|A1.03.03.07.01|7
+A1.03.03.07.01.10|Documentación de apoyo|A1.03.03.07.01|7
+A1.03.03.07.01.99|Otros tipos documentales|A1.03.03.07.01|7
+A1.03.03.07.02|Participación Admón. Provincial, Local y Comarcal|A1.03.03.07|6
+A1.03.03.07.02.01|Acuerdos y convenios|A1.03.03.07.02|7
+A1.03.03.07.02.02|Borradores|A1.03.03.07.02|7
+A1.03.03.07.02.03|Correspondencia|A1.03.03.07.02|7
+A1.03.03.07.02.05|Expedientes de reunión|A1.03.03.07.02|7
+A1.03.03.07.02.06|Informes|A1.03.03.07.02|7
+A1.03.03.07.02.07|Jornadas, seminarios, congresos|A1.03.03.07.02|7
+A1.03.03.07.02.08|Memorias|A1.03.03.07.02|7
+A1.03.03.07.02.09|Proyectos e iniciativas|A1.03.03.07.02|7
+A1.03.03.07.02.10|Documentación de apoyo|A1.03.03.07.02|7
+A1.03.03.07.02.99|Otros tipos documentales|A1.03.03.07.02|7
+A1.03.03.07.03|Participación en órganos de la Universidad|A1.03.03.07|6
+A1.03.03.07.03.01|Acuerdos y convenios|A1.03.03.07.03|7
+A1.03.03.07.03.03|Correspondencia|A1.03.03.07.03|7
+A1.03.03.07.03.05|Expedientes de reunión|A1.03.03.07.03|7
+A1.03.03.07.03.06|Informes|A1.03.03.07.03|7
+A1.03.03.07.03.07|Jornadas, seminarios, congresos|A1.03.03.07.03|7
+A1.03.03.07.03.09|Proyectos e iniciativas|A1.03.03.07.03|7
+A1.03.03.07.03.10|Documentación de apoyo|A1.03.03.07.03|7
+A1.03.03.07.03.99|Otros tipos documentales|A1.03.03.07.03|7
+A1.03.03.07.04|Participación en otros Órganos o Proyectos|A1.03.03.07|6
+A1.03.03.07.04.01|Acuerdos y convenios|A1.03.03.07.04|7
+A1.03.03.07.04.02|Borradores|A1.03.03.07.04|7
+A1.03.03.07.04.03|Correspondencia|A1.03.03.07.04|7
+A1.03.03.07.04.05|Expedientes de reunión|A1.03.03.07.04|7
+A1.03.03.07.04.06|Informes|A1.03.03.07.04|7
+A1.03.03.07.04.08|Memorias|A1.03.03.07.04|7
+A1.03.03.07.04.09|Proyectos e iniciativas|A1.03.03.07.04|7
+A1.03.03.07.04.10|Documentación de apoyo|A1.03.03.07.04|7
+A1.03.03.07.04.99|Otros tipos documentales|A1.03.03.07.04|7
+A1.03.03.07.05|Otras Actividades|A1.03.03.07|6
+A1.03.03.07.05.01|Acuerdos y convenios|A1.03.03.07.05|7
+A1.03.03.07.05.02|Borradores|A1.03.03.07.05|7
+A1.03.03.07.05.03|Correspondencia|A1.03.03.07.05|7
+A1.03.03.07.05.05|Expedientes de reunión|A1.03.03.07.05|7
+A1.03.03.07.05.06|Informes|A1.03.03.07.05|7
+A1.03.03.07.05.07|Jornadas, seminarios, congresos|A1.03.03.07.05|7
+A1.03.03.07.05.08|Memorias|A1.03.03.07.05|7
+A1.03.03.07.05.09|Proyectos e iniciativas|A1.03.03.07.05|7
+A1.03.03.07.05.10|Documentación de apoyo|A1.03.03.07.05|7
+A1.03.03.07.05.99|Otros tipos documentales|A1.03.03.07.05|7
+A1.03.03.07.06|Escuela-Taller|A1.03.03.07|6
+A1.03.03.07.06.01|Expedientes|A1.03.03.07.06|7
+A1.03.03.08|Comunicación e Imagen|A1.03.03|5
+A1.03.04|Consejo|A1.03|4
+A1.03.04.01|Consejos Ordinarios|A1.03.04|7
+A1.03.05|Comisión de Control Económico|A1.03|4
+A1.03.06|Comisión de Garantías|A1.03|4
+A1.03.07|Asesoría Jurídica|A1.03|4
+A1.03.07.01|Expedientes Jurídicos|A1.03.07|7
+A1.03.08|Federaciones|A1.03|4
+A1.03.09|Uniones Comarcales|A1.03|4
+A1.03.09.01|Unión Comarcal Subbética de Córdoba|A1.03.09|5
+A1.03.09.01.01|Comité|A1.03.09.01|6
+A1.03.09.01.01.01|Comités Ordinarios|A1.03.09.01.01|7
+A1.03.09.01.01.02|Comités Extraordinarios|A1.03.09.01.01|7
+A1.04|Unión Provincial de Granada|A1|3
+A1.04.01|Congreso|A1.04|4
+A1.04.01.01|Congresos Ordinarios|A1.04.01|7
+A1.04.01.02|Congresos Extraordinarios|A1.04.01|7
+A1.04.01.03|Congresos Comarcales|A1.04.01|7
+A1.04.02|Comité|A1.04|4
+A1.04.02.01|Comités Ordinarios|A1.04.02|7
+A1.04.02.02|Comités Extraordinarios|A1.04.02|7
+A1.04.03|Comisión Ejecutiva|A1.04|4
+A1.04.03.01|Secretaría General|A1.04.03|5
+A1.04.03.01.01|Secretaría|A1.04.03.01|6
+A1.04.03.02|Organización|A1.04.03|5
+A1.04.03.02.01|Afiliaciones|A1.04.03.02|6
+A1.04.03.02.01.01|Correspondencia|A1.04.03.02.01|7
+A1.04.03.02.01.02|Expedientes de afiliaciones|A1.04.03.02.01|7
+A1.04.03.02.01.03|Informes|A1.04.03.02.01|7
+A1.04.03.02.01.04|Listados|A1.04.03.02.01|7
+A1.04.03.02.01.05|Planes de trabajo|A1.04.03.02.01|7
+A1.04.03.02.01.99|Varios|A1.04.03.02.01|7
+A1.04.03.02.02|Comarcas|A1.04.03.02|6
+A1.04.03.02.02.01|Correspondencia|A1.04.03.02.02|7
+A1.04.03.02.02.02|Expedientes de reunión|A1.04.03.02.02|7
+A1.04.03.02.02.04|Documentación de Congresos y Comités|A1.04.03.02.02|7
+A1.04.03.02.02.99|Varios|A1.04.03.02.02|7
+A1.04.03.02.03|Elecciones Sindicales|A1.04.03.02|6
+A1.04.03.02.03.01|Correspondencia|A1.04.03.02.03|7
+A1.04.03.02.03.02|Expedientes de Elecciones Sindicales|A1.04.03.02.03|7
+A1.04.03.02.03.03|Informes y planes de trabajo|A1.04.03.02.03|7
+A1.04.03.02.03.04|Demandas y Sentencias|A1.04.03.02.03|7
+A1.04.03.02.03.05|Laudos|A1.04.03.02.03|7
+A1.04.03.02.03.06|Delegados y representantes sindicales|A1.04.03.02.03|7
+A1.04.03.02.03.07|Listados|A1.04.03.02.03|7
+A1.04.03.02.03.08|Expedientes de reunión|A1.04.03.02.03|7
+A1.04.03.02.03.09|Comité Electoral|A1.04.03.02.03|7
+A1.04.03.02.03.10|POSI|A1.04.03.02.03|7
+A1.04.03.02.03.99|Varios|A1.04.03.02.03|7
+A1.04.03.02.04|Huelgas|A1.04.03.02|6
+A1.04.03.02.04.01|Correspondencia|A1.04.03.02.04|7
+A1.04.03.02.04.02|Expedientes de huelgas y movilizaciones|A1.04.03.02.04|7
+A1.04.03.02.04.03|Manifiestos y discursos|A1.04.03.02.04|7
+A1.04.03.02.04.99|Varios|A1.04.03.02.04|7
+A1.04.03.02.05|Secretaría|A1.04.03.02|6
+A1.04.03.02.05.01|Correspondencia|A1.04.03.02.05|7
+A1.04.03.02.05.02|Expedientes de reunión|A1.04.03.02.05|7
+A1.04.03.02.05.03|Informes y planes de trabajo|A1.04.03.02.05|7
+A1.04.03.02.05.04|Documentación de Congresos y Comités|A1.04.03.02.05|7
+A1.04.03.02.05.05|Secciones Sindicales|A1.04.03.02.05|7
+A1.04.03.02.05.06|Normativa|A1.04.03.02.05|7
+A1.04.03.02.05.07|Expedientes de conflictos orgánicos|A1.04.03.02.05|7
+A1.04.03.02.05.08|Jornadas y cursos|A1.04.03.02.05|7
+A1.04.03.02.05.99|Varios|A1.04.03.02.05|7
+A1.04.03.03|Administración|A1.04.03|5
+A1.04.03.03.01|Contabilidad|A1.04.03.03|6
+A1.04.03.03.02|Cuotas|A1.04.03.03|6
+A1.04.03.03.03|Informática|A1.04.03.03|6
+A1.04.03.03.04|Patrimonio|A1.04.03.03|6
+A1.04.03.03.05|Personal|A1.04.03.03|6
+A1.04.03.03.06|Secretaría|A1.04.03.03|6
+A1.04.03.03.07|Tiempo Libre|A1.04.03.03|6
+A1.04.03.04|Acción Sindical|A1.04.03|5
+A1.04.03.04.01|Conciliación de conflictos colectivos|A1.04.03.04|6
+A1.04.03.04.02|Empleo|A1.04.03.04|6
+A1.04.03.04.02.01|Expedientes de regulación de empleo|A1.04.03.04.02|7
+A1.04.03.04.02.02|Informes|A1.04.03.04.02|7
+A1.04.03.04.02.03|Correspondencia|A1.04.03.04.02|7
+A1.04.03.04.03|Negociación Colectiva|A1.04.03.04|6
+A1.04.03.04.04|Promoción económica|A1.04.03.04|6
+A1.04.03.04.05|Relaciones laborales|A1.04.03.04|6
+A1.04.03.04.06|Salud Laboral|A1.04.03.04|6
+A1.04.03.04.07|Secretaría|A1.04.03.04|6
+A1.04.03.05|Formación|A1.04.03|5
+A1.04.03.05.01|Biblioteca|A1.04.03.05|6
+A1.04.03.05.02|Secretaría|A1.04.03.05|6
+A1.04.03.05.02.01|Correspondencia|A1.04.03.05.02|7
+A1.04.03.05.02.02|Cursos|A1.04.03.05.02|7
+A1.04.03.05.02.03|Jornadas|A1.04.03.05.02|7
+A1.04.03.06|Acción Social|A1.04.03|5
+A1.04.03.06.01|Cooperación|A1.04.03.06|6
+A1.04.03.06.02|Juventud|A1.04.03.06|6
+A1.04.03.06.03|Medio Ambiente|A1.04.03.06|6
+A1.04.03.06.04|Migraciones|A1.04.03.06|6
+A1.04.03.06.05|Mujer|A1.04.03.06|6
+A1.04.03.06.06|Secretaría|A1.04.03.06|6
+A1.04.03.06.07|Servicios sociales|A1.04.03.06|6
+A1.04.03.07|Acción Institucional|A1.04.03|5
+A1.04.03.07.01|Participación Admón. Central y Autonómica|A1.04.03.07|6
+A1.04.03.07.01.01|Acuerdos y convenios|A1.04.03.07.01|7
+A1.04.03.07.01.02|Borradores|A1.04.03.07.01|7
+A1.04.03.07.01.03|Correspondencia|A1.04.03.07.01|7
+A1.04.03.07.01.04|Expedientes de participación|A1.04.03.07.01|7
+A1.04.03.07.01.05|Expedientes de reunión|A1.04.03.07.01|7
+A1.04.03.07.01.06|Informes|A1.04.03.07.01|7
+A1.04.03.07.01.07|Jornadas, seminarios, congresos|A1.04.03.07.01|7
+A1.04.03.07.01.08|Memorias|A1.04.03.07.01|7
+A1.04.03.07.01.09|Proyectos e iniciativas|A1.04.03.07.01|7
+A1.04.03.07.01.10|Documentación de apoyo|A1.04.03.07.01|7
+A1.04.03.07.01.99|Otros tipos documentales|A1.04.03.07.01|7
+A1.04.03.07.02|Participación Admón. Provincial, Local y Comarcal|A1.04.03.07|6
+A1.04.03.07.02.01|Acuerdos y convenios|A1.04.03.07.02|7
+A1.04.03.07.02.02|Borradores|A1.04.03.07.02|7
+A1.04.03.07.02.03|Correspondencia|A1.04.03.07.02|7
+A1.04.03.07.02.04|Expedientes de participación|A1.04.03.07.02|7
+A1.04.03.07.02.05|Expedientes de reunión|A1.04.03.07.02|7
+A1.04.03.07.02.06|Informes|A1.04.03.07.02|7
+A1.04.03.07.02.07|Jornadas, seminarios, congresos|A1.04.03.07.02|7
+A1.04.03.07.02.08|Memorias|A1.04.03.07.02|7
+A1.04.03.07.02.09|Proyectos e iniciativas|A1.04.03.07.02|7
+A1.04.03.07.02.10|Documentación de apoyo|A1.04.03.07.02|7
+A1.04.03.07.02.99|Otros tipos documentales|A1.04.03.07.02|7
+A1.04.03.07.03|Participación en órganos de la Universidad|A1.04.03.07|6
+A1.04.03.07.03.01|Acuerdos y convenios|A1.04.03.07.03|7
+A1.04.03.07.03.02|Borradores|A1.04.03.07.03|7
+A1.04.03.07.03.03|Correspondencia|A1.04.03.07.03|7
+A1.04.03.07.03.05|Expedientes de reunión|A1.04.03.07.03|7
+A1.04.03.07.03.06|Informes|A1.04.03.07.03|7
+A1.04.03.07.03.07|Jornadas, seminarios, congresos|A1.04.03.07.03|7
+A1.04.03.07.03.09|Proyectos e iniciativas|A1.04.03.07.03|7
+A1.04.03.07.03.10|Documentación de apoyo|A1.04.03.07.03|7
+A1.04.03.07.03.99|Otros tipos documentales|A1.04.03.07.03|7
+A1.04.03.07.04|Participación en otros órganos o proyectos|A1.04.03.07|6
+A1.04.03.07.04.01|Acuerdos y convenios|A1.04.03.07.04|7
+A1.04.03.07.04.02|Borradores|A1.04.03.07.04|7
+A1.04.03.07.04.03|Correspondencia|A1.04.03.07.04|7
+A1.04.03.07.04.04|Expedientes de participación|A1.04.03.07.04|7
+A1.04.03.07.04.05|Expedientes de reunión|A1.04.03.07.04|7
+A1.04.03.07.04.06|Informes|A1.04.03.07.04|7
+A1.04.03.07.04.07|Jornadas, seminarios, congresos|A1.04.03.07.04|7
+A1.04.03.07.04.08|Memorias|A1.04.03.07.04|7
+A1.04.03.07.04.09|Proyectos e iniciativas|A1.04.03.07.04|7
+A1.04.03.07.04.10|Documentación de apoyo|A1.04.03.07.04|7
+A1.04.03.07.04.99|Otros tipos documentales|A1.04.03.07.04|7
+A1.04.03.07.05|Otras Actividades|A1.04.03.07|6
+A1.04.03.07.05.01|Acuerdos y convenios|A1.04.03.07.05|7
+A1.04.03.07.05.02|Borradores|A1.04.03.07.05|7
+A1.04.03.07.05.03|Correspondencia|A1.04.03.07.05|7
+A1.04.03.07.05.05|Expedientes de reunión|A1.04.03.07.05|7
+A1.04.03.07.05.06|Informes|A1.04.03.07.05|7
+A1.04.03.07.05.07|Jornadas, seminarios, congresos|A1.04.03.07.05|7
+A1.04.03.07.05.08|Memorias|A1.04.03.07.05|7
+A1.04.03.07.05.09|Proyectos e iniciativas|A1.04.03.07.05|7
+A1.04.03.07.05.10|Documentación de apoyo|A1.04.03.07.05|7
+A1.04.03.07.05.99|Otros tipos documentales|A1.04.03.07.05|7
+A1.04.03.07.06|Centro de Recursos y Desarrollo Comunitario|A1.04.03.07|6
+A1.04.03.07.06.02|Borradores|A1.04.03.07.06|7
+A1.04.03.07.06.03|Correspondencia|A1.04.03.07.06|7
+A1.04.03.07.06.05|Expedientes de reunión|A1.04.03.07.06|7
+A1.04.03.07.06.06|Informes|A1.04.03.07.06|7
+A1.04.03.07.06.07|Jornadas, seminarios, congresos|A1.04.03.07.06|7
+A1.04.03.07.06.08|Memorias|A1.04.03.07.06|7
+A1.04.03.07.06.09|Proyectos e iniciativas|A1.04.03.07.06|7
+A1.04.03.07.06.10|Documentación de apoyo|A1.04.03.07.06|7
+A1.04.03.07.06.99|Otros tipos documentales|A1.04.03.07.06|7
+A1.04.03.08|Comunicación e Imagen|A1.04.03|5
+A1.04.04|Consejo|A1.04|4
+A1.04.05|Comisión de Control Económico|A1.04|4
+A1.04.06|Comisión de Garantías|A1.04|4
+A1.04.07|Asesoría Jurídica|A1.04|4
+A1.04.07.01|Expedientes Jurídicos|A1.04.07|7
+A1.04.08|Federaciones|A1.04|4
+A1.05|Unión Provincial de Huelva|A1|3
+A1.05.01|Congreso|A1.05|4
+A1.05.01.01|Congresos Ordinarios|A1.05.01|7
+A1.05.01.02|Congresos Extraordinarios|A1.05.01|7
+A1.05.01.03|Congresos Comarcales|A1.05.01|7
+A1.05.02|Comité|A1.05|4
+A1.05.02.01|Comités Ordinarios|A1.05.02|7
+A1.05.02.02|Comités Extraordinarios|A1.05.02|7
+A1.05.03|Comisión Ejecutiva|A1.05|4
+A1.05.03.01|Secretaría General|A1.05.03|5
+A1.05.03.01.01|Secretaría|A1.05.03.01|6
+A1.05.03.02|Organización|A1.05.03|5
+A1.05.03.02.01|Afiliaciones|A1.05.03.02|6
+A1.05.03.02.01.01|Correspondencia|A1.05.03.02.01|7
+A1.05.03.02.01.02|Expedientes de afiliaciones|A1.05.03.02.01|7
+A1.05.03.02.01.03|Informes|A1.05.03.02.01|7
+A1.05.03.02.01.04|Listados|A1.05.03.02.01|7
+A1.05.03.02.01.05|Planes de trabajo|A1.05.03.02.01|7
+A1.05.03.02.01.99|Varios|A1.05.03.02.01|7
+A1.05.03.02.02|Comarcas|A1.05.03.02|6
+A1.05.03.02.02.01|Correspondencia|A1.05.03.02.02|7
+A1.05.03.02.02.02|Expedientes de reunión|A1.05.03.02.02|7
+A1.05.03.02.02.03|Informes|A1.05.03.02.02|7
+A1.05.03.02.02.99|Varios|A1.05.03.02.02|7
+A1.05.03.02.03|Elecciones Sindicales|A1.05.03.02|6
+A1.05.03.02.03.01|Correspondencia|A1.05.03.02.03|7
+A1.05.03.02.03.02|Expedientes de Elecciones Sindicales|A1.05.03.02.03|7
+A1.05.03.02.03.03|Informes|A1.05.03.02.03|7
+A1.05.03.02.03.04|Demandas y Sentencias|A1.05.03.02.03|7
+A1.05.03.02.03.07|Listados|A1.05.03.02.03|7
+A1.05.03.02.03.09|Comité electoral|A1.05.03.02.03|7
+A1.05.03.02.03.10|POSI|A1.05.03.02.03|7
+A1.05.03.02.03.99|Varios|A1.05.03.02.03|7
+A1.05.03.02.04|Huelgas|A1.05.03.02|6
+A1.05.03.02.04.01|Correspondencia|A1.05.03.02.04|7
+A1.05.03.02.04.02|Expedientes de Huelgas y Movilizaciones|A1.05.03.02.04|7
+A1.05.03.02.04.03|Manifiestos y discursos|A1.05.03.02.04|7
+A1.05.03.02.05|Secretaría|A1.05.03.02|6
+A1.05.03.02.05.01|Correspondencia|A1.05.03.02.05|7
+A1.05.03.02.05.02|Expedientes de reunión|A1.05.03.02.05|7
+A1.05.03.02.05.03|Informes y planes de trabajo|A1.05.03.02.05|7
+A1.05.03.02.05.04|Documentación de Congresos y Comités|A1.05.03.02.05|7
+A1.05.03.02.05.05|Secciones sindicales|A1.05.03.02.05|7
+A1.05.03.02.05.06|Normativa|A1.05.03.02.05|7
+A1.05.03.02.05.07|Expedientes de conflictos orgánicos|A1.05.03.02.05|7
+A1.05.03.02.05.99|Varios|A1.05.03.02.05|7
+A1.05.03.03|Administración|A1.05.03|5
+A1.05.03.03.01|Contabilidad|A1.05.03.03|6
+A1.05.03.03.02|Cuotas|A1.05.03.03|6
+A1.05.03.03.03|Informática|A1.05.03.03|6
+A1.05.03.03.04|Patrimonio|A1.05.03.03|6
+A1.05.03.03.05|Personal|A1.05.03.03|6
+A1.05.03.03.06|Secretaría|A1.05.03.03|6
+A1.05.03.03.07|Tiempo Libre|A1.05.03.03|6
+A1.05.03.04|Acción Sindical|A1.05.03|5
+A1.05.03.04.01|Conciliación de conflictos colectivos|A1.05.03.04|6
+A1.05.03.04.02|Empleo|A1.05.03.04|6
+A1.05.03.04.02.01|Expedientes de regulación de empleo|A1.05.03.04.02|7
+A1.05.03.04.02.02|Informes|A1.05.03.04.02|7
+A1.05.03.04.02.03|Correspondencia|A1.05.03.04.02|7
+A1.05.03.04.03|Negociación Colectiva|A1.05.03.04|6
+A1.05.03.04.04|Promoción económica|A1.05.03.04|6
+A1.05.03.04.05|Relaciones laborales|A1.05.03.04|6
+A1.05.03.04.06|Salud Laboral|A1.05.03.04|6
+A1.05.03.04.07|Secretaría|A1.05.03.04|6
+A1.05.03.05|Formación|A1.05.03|5
+A1.05.03.05.01|Biblioteca|A1.05.03.05|6
+A1.05.03.05.02|Secretaría|A1.05.03.05|6
+A1.05.03.05.02.01|Correspondencia|A1.05.03.05.02|7
+A1.05.03.05.02.02|Cursos|A1.05.03.05.02|7
+A1.05.03.05.02.03|Jornadas|A1.05.03.05.02|7
+A1.05.03.06|Acción Social|A1.05.03|5
+A1.05.03.06.01|Cooperación|A1.05.03.06|6
+A1.05.03.06.02|Juventud|A1.05.03.06|6
+A1.05.03.06.03|Medio Ambiente|A1.05.03.06|6
+A1.05.03.06.04|Migraciones|A1.05.03.06|6
+A1.05.03.06.05|Mujer|A1.05.03.06|6
+A1.05.03.06.06|Secretaría|A1.05.03.06|6
+A1.05.03.06.07|Servicios sociales|A1.05.03.06|6
+A1.05.03.07|Acción Institucional|A1.05.03|5
+A1.05.03.07.01|Acuerdos y convenios|A1.05.03.07|7
+A1.05.03.07.02|Borradores|A1.05.03.07|7
+A1.05.03.07.03|Correspondencia|A1.05.03.07|7
+A1.05.03.07.04|Expedientes de reunión|A1.05.03.07|7
+A1.05.03.07.05|Informes|A1.05.03.07|7
+A1.05.03.07.06|Jornadas, seminarios, congresos|A1.05.03.07|7
+A1.05.03.07.07|Memorias|A1.05.03.07|7
+A1.05.03.07.08|Proyectos e iniciativas|A1.05.03.07|7
+A1.05.03.07.09|Documentación de apoyo|A1.05.03.07|7
+A1.05.03.07.99|Otros tipos documentales|A1.05.03.07|7
+A1.05.03.08|Comunicación e Imagen|A1.05.03|5
+A1.05.04|Consejo|A1.05|4
+A1.05.05|Comisión de Control Económico|A1.05|4
+A1.05.06|Comisión de Garantías|A1.05|4
+A1.05.07|Asesoría Jurídica|A1.05|4
+A1.05.07.01|Expedientes Jurídicos|A1.05.07|7
+A1.05.08|Federaciones|A1.05|4
+A1.06|Unión Provincial de Jaén|A1|3
+A1.06.01|Congreso|A1.06|4
+A1.06.01.01|Congresos Ordinarios|A1.06.01|7
+A1.06.01.02|Congresos Extraordinarios|A1.06.01|7
+A1.06.01.03|Congresos Comarcales|A1.06.01|7
+A1.06.02|Comité|A1.06|4
+A1.06.02.01|Comités Ordinarios|A1.06.02|7
+A1.06.02.02|Comités Extraordinarios|A1.06.02|7
+A1.06.02.03|Comités Comarcales|A1.06.02|7
+A1.06.03|Comisión Ejecutiva|A1.06|4
+A1.06.03.01|Secretaría General|A1.06.03|5
+A1.06.03.01.01|Correspondencia|A1.06.03.01|7
+A1.06.03.01.02|Documentación de Apoyo|A1.06.03.01|7
+A1.06.03.02|Organización|A1.06.03|5
+A1.06.03.02.01|Afiliaciones|A1.06.03.02|6
+A1.06.03.02.01.01|Correspondencia|A1.06.03.02.01|7
+A1.06.03.02.02|Comarcas|A1.06.03.02|6
+A1.06.03.02.03|Elecciones Sindicales|A1.06.03.02|6
+A1.06.03.02.03.01|Informes|A1.06.03.02.03|7
+A1.06.03.02.04|Movilizaciones y huelgas|A1.06.03.02|6
+A1.06.03.02.04.01|Informes|A1.06.03.02.04|7
+A1.06.03.02.04.02|Movilizaciones y huelgas|A1.06.03.02.04|7
+A1.06.03.02.05|Secretaría|A1.06.03.02|6
+A1.06.03.02.05.01|Correspondencia|A1.06.03.02.05|7
+A1.06.03.03|Administración|A1.06.03|5
+A1.06.03.03.01|Contabilidad|A1.06.03.03|6
+A1.06.03.03.01.01|Actas de revisión de cuentas|A1.06.03.03.01|7
+A1.06.03.03.01.02|Correspondencia|A1.06.03.03.01|7
+A1.06.03.03.02|Cuotas|A1.06.03.03|6
+A1.06.03.03.02.01|Listados|A1.06.03.03.02|7
+A1.06.03.03.03|Informática|A1.06.03.03|6
+A1.06.03.03.04|Patrimonio|A1.06.03.03|6
+A1.06.03.03.04.01|Expedientes|A1.06.03.03.04|7
+A1.06.03.03.04.02|Registros e inventarios de bienes|A1.06.03.03.04|7
+A1.06.03.03.04.03|Correspondencia|A1.06.03.03.04|7
+A1.06.03.03.04.04|Contratos|A1.06.03.03.04|7
+A1.06.03.03.05|Personal|A1.06.03.03|6
+A1.06.03.03.05.01|Curriculums Vitae|A1.06.03.03.05|7
+A1.06.03.03.05.02|Correspondencia|A1.06.03.03.05|7
+A1.06.03.03.05.03|Nóminas|A1.06.03.03.05|7
+A1.06.03.03.06|Secretaría|A1.06.03.03|6
+A1.06.03.03.06.01|Correspondencia|A1.06.03.03.06|7
+A1.06.03.03.06.02|Informes|A1.06.03.03.06|7
+A1.06.03.03.07|Tiempo Libre|A1.06.03.03|6
+A1.06.03.03.07.01|Correspondencia|A1.06.03.03.07|7
+A1.06.03.03.07.02|Listados|A1.06.03.03.07|7
+A1.06.03.03.08|Servicios al afiliado|A1.06.03.03|6
+A1.06.03.03.08.01|Planes de pensiones|A1.06.03.03.08|7
+A1.06.03.03.09|Empresas colaboradoras|A1.06.03.03|6
+A1.06.03.04|Acción Sindical|A1.06.03|5
+A1.06.03.04.01|Conciliación de conflictos colectivos|A1.06.03.04|6
+A1.06.03.04.01.01|Conciliaciones|A1.06.03.04.01|7
+A1.06.03.04.01.02|Informes|A1.06.03.04.01|7
+A1.06.03.04.02|Empleo|A1.06.03.04|6
+A1.06.03.04.02.01|Expedientes de regulación de empleo|A1.06.03.04.02|7
+A1.06.03.04.02.02|Informes|A1.06.03.04.02|7
+A1.06.03.04.02.03|Correspondencia|A1.06.03.04.02|7
+A1.06.03.04.03|Negociación Colectiva|A1.06.03.04|6
+A1.06.03.04.03.01|Convenios colectivos|A1.06.03.04.03|7
+A1.06.03.04.03.02|Correspondencia|A1.06.03.04.03|7
+A1.06.03.04.03.03|Informes|A1.06.03.04.03|7
+A1.06.03.04.03.04|Jornadas|A1.06.03.04.03|7
+A1.06.03.04.03.05|Documentación de Apoyo|A1.06.03.04.03|7
+A1.06.03.04.04|Promoción económica|A1.06.03.04|6
+A1.06.03.04.04.01|Informes|A1.06.03.04.04|7
+A1.06.03.04.04.02|Mesas redondas|A1.06.03.04.04|7
+A1.06.03.04.05|Relaciones laborales|A1.06.03.04|6
+A1.06.03.04.05.01|Correspondencia|A1.06.03.04.05|7
+A1.06.03.04.06|Salud Laboral|A1.06.03.04|6
+A1.06.03.04.06.01|Correspondencia|A1.06.03.04.06|7
+A1.06.03.04.06.02|Informes|A1.06.03.04.06|7
+A1.06.03.04.07|Secretaría|A1.06.03.04|6
+A1.06.03.04.07.01|Correspondencia|A1.06.03.04.07|7
+A1.06.03.04.07.02|Informes|A1.06.03.04.07|7
+A1.06.03.05|Formación|A1.06.03|5
+A1.06.03.05.01|Biblioteca|A1.06.03.05|6
+A1.06.03.05.02|Secretaría|A1.06.03.05|6
+A1.06.03.05.02.01|Correspondencia|A1.06.03.05.02|7
+A1.06.03.05.02.02|Cursos|A1.06.03.05.02|7
+A1.06.03.05.02.03|Jornadas|A1.06.03.05.02|7
+A1.06.03.06|Acción Social|A1.06.03|5
+A1.06.03.06.01|Cooperación|A1.06.03.06|6
+A1.06.03.06.02|Juventud|A1.06.03.06|6
+A1.06.03.06.02.01|Correspondencia|A1.06.03.06.02|7
+A1.06.03.06.03|Medio Ambiente|A1.06.03.06|6
+A1.06.03.06.03.01|Correspondencia|A1.06.03.06.03|7
+A1.06.03.06.04|Migraciones|A1.06.03.06|6
+A1.06.03.06.05|Mujer|A1.06.03.06|6
+A1.06.03.06.05.01|Correspondencia|A1.06.03.06.05|7
+A1.06.03.06.06|Secretaría|A1.06.03.06|6
+A1.06.03.06.06.01|Correspondencia|A1.06.03.06.06|7
+A1.06.03.06.07|Servicios sociales|A1.06.03.06|6
+A1.06.03.06.07.01|Correspondencia|A1.06.03.06.07|7
+A1.06.03.07|Acción Institucional|A1.06.03|5
+A1.06.03.07.01|Acuerdos y Convenios|A1.06.03.07|7
+A1.06.03.07.02|Borradores|A1.06.03.07|7
+A1.06.03.07.03|Correspondencia|A1.06.03.07|7
+A1.06.03.07.04|Expedientes de participación|A1.06.03.07|7
+A1.06.03.07.05|Informes|A1.06.03.07|7
+A1.06.03.07.06|Jornadas, seminarios, congresos|A1.06.03.07|7
+A1.06.03.07.07|Memorias|A1.06.03.07|7
+A1.06.03.07.08|Proyectos, iniciativas, propuestas|A1.06.03.07|7
+A1.06.03.07.09|Documentación de apoyo|A1.06.03.07|7
+A1.06.03.08|Comunicación e Imagen|A1.06.03|5
+A1.06.03.08.01|Correspondencia|A1.06.03.08|7
+A1.06.03.08.02|Comunicados y notas de prensa|A1.06.03.08|7
+A1.06.03.08.03|Informes|A1.06.03.08|7
+A1.06.03.09|Comisión Gestora|A1.06.03|5
+A1.06.03.09.01|Correspondencia|A1.06.03.09|7
+A1.06.04|Consejo|A1.06|4
+A1.06.05|Comisión de Control Económico|A1.06|4
+A1.06.05.01|Actas|A1.06.05|7
+A1.06.06|Comisión de Garantías|A1.06|4
+A1.06.07|Asesoría Jurídica|A1.06|4
+A1.06.07.01|Expedientes Jurídicos|A1.06.07|7
+A1.06.07.02|Reglamentos|A1.06.07|7
+A1.06.08|Federaciones|A1.06|4
+A1.06.08.01|Federación de Servicios Públicos (FSP)|A1.06.08|5
+A1.06.08.01.01|Comité|A1.06.08.01|6
+A1.06.08.01.01.01|Comités Ordinarios|A1.06.08.01.01|7
+A1.06.08.01.01.02|Comités Extraordinarios|A1.06.08.01.01|7
+A1.06.08.02|Federación de Transportes, Comunicaciones y Mar (F|A1.06.08|5
+A1.06.08.02.01|Programas|A1.06.08.02|7
+A1.06.08.03|Unión de Pequeños Agricultores y Ganaderos (UPA)|A1.06.08|5
+A1.06.08.03.01|Informes|A1.06.08.03|7
+A1.06.09|Uniones Comarcales|A1.06|4
+A1.07|Unión Provincial de Málaga|A1|3
+A1.07.01|Congreso|A1.07|4
+A1.07.02|Comité|A1.07|4
+A1.07.03|Comisión Ejecutiva|A1.07|4
+A1.07.03.01|Secretaría General|A1.07.03|5
+A1.07.03.01.01|Secretaría|A1.07.03.01|6
+A1.07.03.02|Organización|A1.07.03|5
+A1.07.03.02.01|Afiliaciones|A1.07.03.02|6
+A1.07.03.02.02|Comarcas|A1.07.03.02|6
+A1.07.03.02.03|Elecciones Sindicales|A1.07.03.02|6
+A1.07.03.02.04|Huelgas|A1.07.03.02|6
+A1.07.03.02.05|Secretaría|A1.07.03.02|6
+A1.07.03.03|Administración|A1.07.03|5
+A1.07.03.03.01|Contabilidad|A1.07.03.03|6
+A1.07.03.03.02|Cuotas|A1.07.03.03|6
+A1.07.03.03.03|Informática|A1.07.03.03|6
+A1.07.03.03.04|Patrimonio|A1.07.03.03|6
+A1.07.03.03.05|Personal|A1.07.03.03|6
+A1.07.03.03.06|Secretaría|A1.07.03.03|6
+A1.07.03.03.07|Tiempo Libre|A1.07.03.03|6
+A1.07.03.04|Acción Sindical|A1.07.03|5
+A1.07.03.04.01|Conciliación de conflictos colectivos|A1.07.03.04|6
+A1.07.03.04.02|Empleo|A1.07.03.04|6
+A1.07.03.04.02.01|Expedientes de regulación de empleo|A1.07.03.04.02|7
+A1.07.03.04.02.02|Informes|A1.07.03.04.02|7
+A1.07.03.04.02.03|Correspondencia|A1.07.03.04.02|7
+A1.07.03.04.03|Negociación Colectiva|A1.07.03.04|6
+A1.07.03.04.04|Promoción económica|A1.07.03.04|6
+A1.07.03.04.05|Relaciones laborales|A1.07.03.04|6
+A1.07.03.04.06|Salud Laboral|A1.07.03.04|6
+A1.07.03.04.07|Secretaría|A1.07.03.04|6
+A1.07.03.05|Formación|A1.07.03|5
+A1.07.03.05.01|Biblioteca|A1.07.03.05|6
+A1.07.03.05.02|Secretaría|A1.07.03.05|6
+A1.07.03.05.02.01|Correspondencia|A1.07.03.05.02|7
+A1.07.03.05.02.02|Cursos|A1.07.03.05.02|7
+A1.07.03.05.02.03|Jornadas|A1.07.03.05.02|7
+A1.07.03.06|Acción Social|A1.07.03|5
+A1.07.03.06.01|Cooperación|A1.07.03.06|6
+A1.07.03.06.02|Juventud|A1.07.03.06|6
+A1.07.03.06.03|Medio Ambiente|A1.07.03.06|6
+A1.07.03.06.04|Migraciones|A1.07.03.06|6
+A1.07.03.06.05|Mujer|A1.07.03.06|6
+A1.07.03.06.06|Secretaría|A1.07.03.06|6
+A1.07.03.06.07|Servicios sociales|A1.07.03.06|6
+A1.07.03.07|Acción Institucional|A1.07.03|5
+A1.07.03.07.01|Concertación|A1.07.03.07|6
+A1.07.03.07.02|Secretaría|A1.07.03.07|6
+A1.07.03.08|Comunicación e Imagen|A1.07.03|5
+A1.07.04|Consejo|A1.07|4
+A1.07.05|Comisión de Control Económico|A1.07|4
+A1.07.06|Comisión de Garantías|A1.07|4
+A1.07.07|Asesoría Jurídica|A1.07|4
+A1.07.08|Federaciones|A1.07|4
+A1.08|Unión Provincial de Sevilla|A1|3
+A1.08.01|Congreso|A1.08|4
+A1.08.01.01|Congresos Ordinarios|A1.08.01|7
+A1.08.01.02|Congresos Extraordinarios|A1.08.01|7
+A1.08.01.03|Congresos Comarcales|A1.08.01|7
+A1.08.02|Comité|A1.08|4
+A1.08.02.01|Comités Ordinarios|A1.08.02|7
+A1.08.02.02|Comités Extraordinarios|A1.08.02|7
+A1.08.03|Comisión Ejecutiva|A1.08|4
+A1.08.03.01|Secretaría General|A1.08.03|5
+A1.08.03.01.01|Secretaría|A1.08.03.01|6
+A1.08.03.02|Organización|A1.08.03|5
+A1.08.03.02.01|Afiliaciones|A1.08.03.02|6
+A1.08.03.02.02|Comarcas|A1.08.03.02|6
+A1.08.03.02.03|Elecciones Sindicales|A1.08.03.02|6
+A1.08.03.02.04|Huelgas|A1.08.03.02|6
+A1.08.03.02.05|Secretaría|A1.08.03.02|6
+A1.08.03.03|Administración|A1.08.03|5
+A1.08.03.03.01|Contabilidad|A1.08.03.03|6
+A1.08.03.03.02|Cuotas|A1.08.03.03|6
+A1.08.03.03.03|Informática|A1.08.03.03|6
+A1.08.03.03.04|Patrimonio|A1.08.03.03|6
+A1.08.03.03.05|Personal|A1.08.03.03|6
+A1.08.03.03.06|Secretaría|A1.08.03.03|6
+A1.08.03.03.07|Tiempo Libre|A1.08.03.03|6
+A1.08.03.04|Acción Sindical|A1.08.03|5
+A1.08.03.04.01|Conciliación de conflictos colectivos|A1.08.03.04|6
+A1.08.03.04.02|Empleo|A1.08.03.04|6
+A1.08.03.04.02.01|Expedientes de regulación de empleo|A1.08.03.04.02|7
+A1.08.03.04.02.02|Informes|A1.08.03.04.02|7
+A1.08.03.04.02.03|Correspondencia|A1.08.03.04.02|7
+A1.08.03.04.03|Negociación Colectiva|A1.08.03.04|6
+A1.08.03.04.04|Promoción económica|A1.08.03.04|6
+A1.08.03.04.05|Relaciones laborales|A1.08.03.04|6
+A1.08.03.04.06|Salud Laboral|A1.08.03.04|6
+A1.08.03.04.07|Secretaría|A1.08.03.04|6
+A1.08.03.05|Formación|A1.08.03|5
+A1.08.03.05.01|Biblioteca|A1.08.03.05|6
+A1.08.03.05.02|Secretaría|A1.08.03.05|6
+A1.08.03.05.02.01|Correspondencia|A1.08.03.05.02|7
+A1.08.03.05.02.02|Cursos|A1.08.03.05.02|7
+A1.08.03.05.02.03|Jornadas|A1.08.03.05.02|7
+A1.08.03.06|Acción Social|A1.08.03|5
+A1.08.03.06.01|Cooperación|A1.08.03.06|6
+A1.08.03.06.02|Juventud|A1.08.03.06|6
+A1.08.03.06.03|Medio Ambiente|A1.08.03.06|6
+A1.08.03.06.04|Migraciones|A1.08.03.06|6
+A1.08.03.06.05|Mujer|A1.08.03.06|6
+A1.08.03.06.06|Secretaría|A1.08.03.06|6
+A1.08.03.06.07|Servicios sociales|A1.08.03.06|6
+A1.08.03.07|Acción Institucional|A1.08.03|5
+A1.08.03.07.01|Participación Admón. Central y Autonómica|A1.08.03.07|6
+A1.08.03.07.01.01|Acuerdos y convenios|A1.08.03.07.01|7
+A1.08.03.07.01.02|Borradores|A1.08.03.07.01|7
+A1.08.03.07.01.03|Correspondencia|A1.08.03.07.01|7
+A1.08.03.07.01.04|Expedientes de reunión|A1.08.03.07.01|7
+A1.08.03.07.01.05|Informes|A1.08.03.07.01|7
+A1.08.03.07.01.06|Jornadas, seminarios, congresos|A1.08.03.07.01|7
+A1.08.03.07.01.07|Memorias|A1.08.03.07.01|7
+A1.08.03.07.01.08|Proyectos e iniciativas|A1.08.03.07.01|7
+A1.08.03.07.01.09|Documentación de apoyo|A1.08.03.07.01|7
+A1.08.03.07.01.99|Otros tipos documentales|A1.08.03.07.01|7
+A1.08.03.07.02|Participación Admón. Provincial, Local y Comarcal|A1.08.03.07|6
+A1.08.03.07.02.01|Acuerdos y convenios|A1.08.03.07.02|7
+A1.08.03.07.02.02|Borradores|A1.08.03.07.02|7
+A1.08.03.07.02.03|Correspondencia|A1.08.03.07.02|7
+A1.08.03.07.02.04|Expedientes de reunión|A1.08.03.07.02|7
+A1.08.03.07.02.05|Informes|A1.08.03.07.02|7
+A1.08.03.07.02.06|Jornadas, seminarios, congresos|A1.08.03.07.02|7
+A1.08.03.07.02.08|Proyectos e iniciativas|A1.08.03.07.02|7
+A1.08.03.07.02.09|Documentación de apoyo|A1.08.03.07.02|7
+A1.08.03.07.02.99|Otros tipos documentales|A1.08.03.07.02|7
+A1.08.03.07.03|Participación en órganos de la Universidad|A1.08.03.07|6
+A1.08.03.07.03.01|Acuerdos y convenios|A1.08.03.07.03|7
+A1.08.03.07.03.02|Borradores|A1.08.03.07.03|7
+A1.08.03.07.03.03|Correspondencia|A1.08.03.07.03|7
+A1.08.03.07.03.04|Expedientes de reunión|A1.08.03.07.03|7
+A1.08.03.07.04|Participación en otros órganos o proyectos|A1.08.03.07|6
+A1.08.03.07.04.01|Acuerdos y convenios|A1.08.03.07.04|7
+A1.08.03.07.04.02|Borradores|A1.08.03.07.04|7
+A1.08.03.07.04.03|Correspondencia|A1.08.03.07.04|7
+A1.08.03.07.04.04|Expedientes de reunión|A1.08.03.07.04|7
+A1.08.03.07.04.05|Informes|A1.08.03.07.04|7
+A1.08.03.07.04.06|Jornadas, seminarios, congresos|A1.08.03.07.04|7
+A1.08.03.07.04.09|Documentación de apoyo|A1.08.03.07.04|7
+A1.08.03.07.04.99|Otros tipos documentales|A1.08.03.07.04|7
+A1.08.03.07.05|Otras Actividades|A1.08.03.07|6
+A1.08.03.07.05.02|Borradores|A1.08.03.07.05|7
+A1.08.03.07.05.03|Correspondencia|A1.08.03.07.05|7
+A1.08.03.07.05.04|Expedientes de reunión|A1.08.03.07.05|7
+A1.08.03.07.05.05|Informes|A1.08.03.07.05|7
+A1.08.03.07.05.06|Jornadas, seminarios, congresos|A1.08.03.07.05|7
+A1.08.03.07.05.09|Documentación de apoyo|A1.08.03.07.05|7
+A1.08.03.07.05.99|Otros tipos documentales|A1.08.03.07.05|7
+A1.08.03.08|Comunicación e Imagen|A1.08.03|5
+A1.08.04|Consejo|A1.08|4
+A1.08.05|Comisión de Control Económico|A1.08|4
+A1.08.06|Comisión de Garantías|A1.08|4
+A1.08.07|Asesoría Jurídica|A1.08|4
+A1.08.07.01|Expedientes Jurídicos|A1.08.07|7
+A1.08.08|Federaciones|A1.08|4
+A1.09|UGT Andalucía|A1|3
+A1.09.01|Congreso|A1.09|4
+A1.09.01.01|Congresos Ordinarios|A1.09.01|7
+A1.09.01.02|Congresos Extraordinarios|A1.09.01|7
+A1.09.02|Comité|A1.09|4
+A1.09.02.01|Comités Ordinarios|A1.09.02|7
+A1.09.02.02|Comités Extraordinarios|A1.09.02|7
+A1.09.02.03|Comité Confederal Ordinario|A1.09.02|7
+A1.09.02.04|Comité Confederal Extraordinario|A1.09.02|7
+A1.09.03|Comisión Ejecutiva|A1.09|4
+A1.09.03.01|Secretaría General|A1.09.03|5
+A1.09.03.01.01|Secretaría|A1.09.03.01|6
+A1.09.03.01.01.01|Correspondencia|A1.09.03.01.01|7
+A1.09.03.02|Organización|A1.09.03|5
+A1.09.03.02.01|Afiliaciones|A1.09.03.02|6
+A1.09.03.02.01.01|Correspondencia|A1.09.03.02.01|7
+A1.09.03.02.01.02|Afiliaciones|A1.09.03.02.01|7
+A1.09.03.02.01.03|Informes|A1.09.03.02.01|7
+A1.09.03.02.01.04|Listados|A1.09.03.02.01|7
+A1.09.03.02.01.05|Planes de trabajo|A1.09.03.02.01|7
+A1.09.03.02.01.99|Varios|A1.09.03.02.01|7
+A1.09.03.02.02|Informática|A1.09.03.02|6
+A1.09.03.02.02.01|Correspondencia|A1.09.03.02.02|7
+A1.09.03.02.02.02|Servicios e informes|A1.09.03.02.02|7
+A1.09.03.02.03|Elecciones Sindicales|A1.09.03.02|6
+A1.09.03.02.03.01|Correspondencia|A1.09.03.02.03|7
+A1.09.03.02.03.02|Expedientes de Elecciones Sindicales (Actas)|A1.09.03.02.03|7
+A1.09.03.02.03.03|Informes y planes de trabajo|A1.09.03.02.03|7
+A1.09.03.02.03.04|Demandas y sentencias|A1.09.03.02.03|7
+A1.09.03.02.03.06|Delegados y representantes sindicales|A1.09.03.02.03|7
+A1.09.03.02.03.07|Listados|A1.09.03.02.03|7
+A1.09.03.02.03.08|Reuniones|A1.09.03.02.03|7
+A1.09.03.02.03.09|Comité Electoral|A1.09.03.02.03|7
+A1.09.03.02.03.10|POSI y agentes electorales|A1.09.03.02.03|7
+A1.09.03.02.03.99|Varios|A1.09.03.02.03|7
+A1.09.03.02.04|Movilizaciones y conflictos|A1.09.03.02|6
+A1.09.03.02.04.01|Correspondencia|A1.09.03.02.04|7
+A1.09.03.02.04.02|Huelgas y movilizaciones|A1.09.03.02.04|7
+A1.09.03.02.04.99|Varios|A1.09.03.02.04|7
+A1.09.03.02.05|Secretaría|A1.09.03.02|6
+A1.09.03.02.05.01|Correspondencia|A1.09.03.02.05|7
+A1.09.03.02.05.02|Reuniones|A1.09.03.02.05|7
+A1.09.03.02.05.03|Informes y planes de trabajo|A1.09.03.02.05|7
+A1.09.03.02.05.04|Documentación de congresos y comités|A1.09.03.02.05|7
+A1.09.03.02.05.06|Normativa de UGT-A|A1.09.03.02.05|7
+A1.09.03.02.06|Archivo y gestión documental|A1.09.03.02|6
+A1.09.03.02.06.01|Correspondencia|A1.09.03.02.06|7
+A1.09.03.02.06.02|Transferencias|A1.09.03.02.06|7
+A1.09.03.02.06.03|Memorias|A1.09.03.02.06|7
+A1.09.03.02.07|Atención al delegado y afiliado|A1.09.03.02|6
+A1.09.03.02.07.01|Correspondencia|A1.09.03.02.07|7
+A1.09.03.02.07.02|Carnés afiliados|A1.09.03.02.07|7
+A1.09.03.02.07.03|Consultas OAS|A1.09.03.02.07|7
+A1.09.03.03|Administración|A1.09.03|5
+A1.09.03.03.01|Contabilidad|A1.09.03.03|6
+A1.09.03.03.01.01|Subvenciones|A1.09.03.03.01|7
+A1.09.03.03.01.02|Extractos de cuentas bancarias|A1.09.03.03.01|7
+A1.09.03.03.01.03|Libro Diario|A1.09.03.03.01|7
+A1.09.03.03.01.04|Libro Mayor|A1.09.03.03.01|7
+A1.09.03.03.01.05|Justificantes de asientos contables|A1.09.03.03.01|7
+A1.09.03.03.01.06|Presupuestos|A1.09.03.03.01|7
+A1.09.03.03.01.07|Balances y Cierre de cuentas|A1.09.03.03.01|7
+A1.09.03.03.01.08|Liquidación de impuestos|A1.09.03.03.01|7
+A1.09.03.03.01.09|Mantenimiento, bienes corrientes y servicios|A1.09.03.03.01|7
+A1.09.03.03.02|Cuotas|A1.09.03.03|6
+A1.09.03.03.02.01|Cotizaciones|A1.09.03.03.02|7
+A1.09.03.03.04|Patrimonio|A1.09.03.03|6
+A1.09.03.03.04.01|Correspondencia|A1.09.03.03.04|7
+A1.09.03.03.04.02|Gestión del patrimonio|A1.09.03.03.04|7
+A1.09.03.03.04.03|Registros e inventarios|A1.09.03.03.04|7
+A1.09.03.03.05|Personal|A1.09.03.03|6
+A1.09.03.03.05.01|Correspondencia|A1.09.03.03.05|7
+A1.09.03.03.05.02|Nóminas|A1.09.03.03.05|7
+A1.09.03.03.05.03|Liquidación de impuestos (Seguridad Social)|A1.09.03.03.05|7
+A1.09.03.03.05.04|Exptes. Personales|A1.09.03.03.05|7
+A1.09.03.03.05.05|Pólizas de Seguros|A1.09.03.03.05|7
+A1.09.03.03.05.06|Curriculum vitae|A1.09.03.03.05|7
+A1.09.03.03.06|Secretaría|A1.09.03.03|6
+A1.09.03.03.06.01|Correspondencia|A1.09.03.03.06|7
+A1.09.03.03.06.02|Informes|A1.09.03.03.06|7
+A1.09.03.03.06.03|Jornadas y cursos|A1.09.03.03.06|7
+A1.09.03.03.07|Tiempo Libre|A1.09.03.03|6
+A1.09.03.03.07.01|Correspondencia|A1.09.03.03.07|7
+A1.09.03.03.07.02|Listados R.T.L.|A1.09.03.03.07|7
+A1.09.03.03.07.03|Solicitudes R.T.L.|A1.09.03.03.07|7
+A1.09.03.03.07.99|Varios|A1.09.03.03.07|7
+A1.09.03.04|Acción Sindical|A1.09.03|5
+A1.09.03.04.01|Conciliación de conflictos colectivos|A1.09.03.04|6
+A1.09.03.04.01.01|Correspondencia|A1.09.03.04.01|7
+A1.09.03.04.01.02|Conflictos Colectivos|A1.09.03.04.01|7
+A1.09.03.04.01.03|Informes|A1.09.03.04.01|7
+A1.09.03.04.01.04|Jornadas, seminarios y congresos|A1.09.03.04.01|7
+A1.09.03.04.01.99|Varios|A1.09.03.04.01|7
+A1.09.03.04.02|Empleo|A1.09.03.04|6
+A1.09.03.04.02.01|Correspondencia|A1.09.03.04.02|7
+A1.09.03.04.02.02|Exptes. de regulación en empleo|A1.09.03.04.02|7
+A1.09.03.04.02.03|Programas de empleo|A1.09.03.04.02|7
+A1.09.03.04.02.04|Informes|A1.09.03.04.02|7
+A1.09.03.04.02.05|Jornadas, seminarios y congresos|A1.09.03.04.02|7
+A1.09.03.04.02.99|Varios|A1.09.03.04.02|7
+A1.09.03.04.03|Negociación Colectiva|A1.09.03.04|6
+A1.09.03.04.03.01|Correspondencia|A1.09.03.04.03|7
+A1.09.03.04.03.02|Convenios colectivos|A1.09.03.04.03|7
+A1.09.03.04.03.03|Informes|A1.09.03.04.03|7
+A1.09.03.04.03.04|Jornadas, seminarios y congresos|A1.09.03.04.03|7
+A1.09.03.04.03.99|Varios|A1.09.03.04.03|7
+A1.09.03.04.04|Promoción económica|A1.09.03.04|6
+A1.09.03.04.04.01|Correspondencia|A1.09.03.04.04|7
+A1.09.03.04.04.02|Informes|A1.09.03.04.04|7
+A1.09.03.04.04.03|Jornadas, seminarios y congresos|A1.09.03.04.04|7
+A1.09.03.04.04.99|Varios|A1.09.03.04.04|7
+A1.09.03.04.05|Relaciones laborales|A1.09.03.04|6
+A1.09.03.04.05.01|Correspondencia|A1.09.03.04.05|7
+A1.09.03.04.05.02|Informes|A1.09.03.04.05|7
+A1.09.03.04.05.03|Jornadas, seminarios y congresos|A1.09.03.04.05|7
+A1.09.03.04.05.04|Reuniones|A1.09.03.04.05|7
+A1.09.03.04.05.99|Varios|A1.09.03.04.05|7
+A1.09.03.04.06|Salud Laboral|A1.09.03.04|6
+A1.09.03.04.06.01|Correspondencia|A1.09.03.04.06|7
+A1.09.03.04.06.02|Informes|A1.09.03.04.06|7
+A1.09.03.04.06.03|Jornadas, seminarios y congresos|A1.09.03.04.06|7
+A1.09.03.04.06.99|Varios|A1.09.03.04.06|7
+A1.09.03.04.07|Secretaría|A1.09.03.04|6
+A1.09.03.04.07.01|Correspondencia|A1.09.03.04.07|7
+A1.09.03.04.07.02|Informes|A1.09.03.04.07|7
+A1.09.03.04.07.03|Jornadas, seminarios y congresos|A1.09.03.04.07|7
+A1.09.03.04.07.99|Varios|A1.09.03.04.07|7
+A1.09.03.05|Formación|A1.09.03|5
+A1.09.03.05.01|Secretaría|A1.09.03.05|6
+A1.09.03.05.01.01|Correspondencia|A1.09.03.05.01|7
+A1.09.03.05.02|Formación Profesional para el Empleo|A1.09.03.05|6
+A1.09.03.05.02.01|Correspondencia|A1.09.03.05.02|7
+A1.09.03.05.02.02|Cursos|A1.09.03.05.02|7
+A1.09.03.05.02.03|Jornadas, seminarios y congresos|A1.09.03.05.02|7
+A1.09.03.05.02.06|Informes|A1.09.03.05.02|7
+A1.09.03.05.02.07|Proyectos|A1.09.03.05.02|7
+A1.09.03.05.03|Formación Sindical|A1.09.03.05|6
+A1.09.03.05.03.01|Correspondencia|A1.09.03.05.03|7
+A1.09.03.05.03.02|Cursos|A1.09.03.05.03|7
+A1.09.03.05.03.03|Jornadas, seminarios y congresos|A1.09.03.05.03|7
+A1.09.03.06|Acción Social|A1.09.03|5
+A1.09.03.06.01|Servicios sociales y protección social|A1.09.03.06|6
+A1.09.03.06.01.01|Correspondencia|A1.09.03.06.01|7
+A1.09.03.06.01.02|Dependencia|A1.09.03.06.01|7
+A1.09.03.06.01.03|Mayores|A1.09.03.06.01|7
+A1.09.03.06.01.04|Discapacidad|A1.09.03.06.01|7
+A1.09.03.06.01.05|Drogodependencia|A1.09.03.06.01|7
+A1.09.03.06.01.99|Varios|A1.09.03.06.01|7
+A1.09.03.06.02|Juventud|A1.09.03.06|6
+A1.09.03.06.02.01|Correspondencia|A1.09.03.06.02|7
+A1.09.03.06.02.02|Jornadas, seminarios y congresos|A1.09.03.06.02|7
+A1.09.03.06.02.99|Varios|A1.09.03.06.02|7
+A1.09.03.06.03|Medio Ambiente|A1.09.03.06|6
+A1.09.03.06.03.01|Correspondencia|A1.09.03.06.03|7
+A1.09.03.06.03.02|Jornadas, seminarios, congresos|A1.09.03.06.03|7
+A1.09.03.06.03.99|Varios|A1.09.03.06.03|7
+A1.09.03.06.04|Migraciones|A1.09.03.06|6
+A1.09.03.06.04.01|Correspondencia|A1.09.03.06.04|7
+A1.09.03.06.04.02|Exptes. de Migraciones|A1.09.03.06.04|7
+A1.09.03.06.04.06|Informes|A1.09.03.06.04|7
+A1.09.03.06.04.07|Jornadas, seminarios y congresos|A1.09.03.06.04|7
+A1.09.03.06.04.99|Varios|A1.09.03.06.04|7
+A1.09.03.06.05|Mujer|A1.09.03.06|6
+A1.09.03.06.05.01|Correspondencia|A1.09.03.06.05|7
+A1.09.03.06.05.02|Jornadas, seminarios, congresos|A1.09.03.06.05|7
+A1.09.03.06.05.99|Varios|A1.09.03.06.05|7
+A1.09.03.06.06|Secretaría|A1.09.03.06|6
+A1.09.03.06.06.01|Correspondencia|A1.09.03.06.06|7
+A1.09.03.06.06.99|Varios|A1.09.03.06.06|7
+A1.09.03.07|Acción Institucional y Cooperación|A1.09.03|5
+A1.09.03.07.01|Participación Admón. Central y Autonómica|A1.09.03.07|6
+A1.09.03.07.01.01|Acuerdos y Convenios|A1.09.03.07.01|7
+A1.09.03.07.01.02|Borradores|A1.09.03.07.01|7
+A1.09.03.07.01.03|Correspondencia|A1.09.03.07.01|7
+A1.09.03.07.01.04|Exptes. de participación|A1.09.03.07.01|7
+A1.09.03.07.01.05|Reuniones|A1.09.03.07.01|7
+A1.09.03.07.01.06|Informes|A1.09.03.07.01|7
+A1.09.03.07.01.07|Jornadas, seminarios y congresos|A1.09.03.07.01|7
+A1.09.03.07.01.08|Memorias|A1.09.03.07.01|7
+A1.09.03.07.01.09|Proyectos e iniciativas|A1.09.03.07.01|7
+A1.09.03.07.01.10|Documentación de apoyo|A1.09.03.07.01|7
+A1.09.03.07.01.11|Comparecencias institucionales|A1.09.03.07.01|7
+A1.09.03.07.02|Participación Admón. Provincial, Local y Comarcal|A1.09.03.07|6
+A1.09.03.07.02.01|Acuerdos y Convenios|A1.09.03.07.02|7
+A1.09.03.07.02.02|Borradores|A1.09.03.07.02|7
+A1.09.03.07.02.03|Correspondencia|A1.09.03.07.02|7
+A1.09.03.07.02.04|Exptes de participación|A1.09.03.07.02|7
+A1.09.03.07.02.05|Reuniones|A1.09.03.07.02|7
+A1.09.03.07.02.06|Informes|A1.09.03.07.02|7
+A1.09.03.07.02.07|Jornadas, seminarios y congresos|A1.09.03.07.02|7
+A1.09.03.07.02.08|Memorias|A1.09.03.07.02|7
+A1.09.03.07.02.09|Proyectos e iniciativas|A1.09.03.07.02|7
+A1.09.03.07.02.10|Documentación de apoyo|A1.09.03.07.02|7
+A1.09.03.07.02.11|Comparecencias institucionales|A1.09.03.07.02|7
+A1.09.03.07.03|Participación en órganos de la Universidad|A1.09.03.07|6
+A1.09.03.07.03.01|Acuerdos y convenios|A1.09.03.07.03|7
+A1.09.03.07.03.03|Correspondencia|A1.09.03.07.03|7
+A1.09.03.07.03.04|Exptes. de participación|A1.09.03.07.03|7
+A1.09.03.07.03.05|Reuniones|A1.09.03.07.03|7
+A1.09.03.07.03.06|Informes|A1.09.03.07.03|7
+A1.09.03.07.03.07|Jornadas, seminarios y congresos|A1.09.03.07.03|7
+A1.09.03.07.04|Cooperación al desarrollo|A1.09.03.07|6
+A1.09.03.07.04.01|Acuerdos y Convenios|A1.09.03.07.04|7
+A1.09.03.07.04.02|Proyectos de cooperación|A1.09.03.07.04|7
+A1.09.03.07.04.04|Exptes. de participación|A1.09.03.07.04|7
+A1.09.03.07.04.05|Reuniones|A1.09.03.07.04|7
+A1.09.03.07.04.06|Informes|A1.09.03.07.04|7
+A1.09.03.07.04.07|Jornadas, seminarios y congresos|A1.09.03.07.04|7
+A1.09.03.07.05|Otras actividades|A1.09.03.07|6
+A1.09.03.07.05.01|Acuerdos y Convenios|A1.09.03.07.05|7
+A1.09.03.07.05.03|Correspondencia|A1.09.03.07.05|7
+A1.09.03.07.05.04|Exptes. de participación|A1.09.03.07.05|7
+A1.09.03.07.05.05|Reuniones|A1.09.03.07.05|7
+A1.09.03.07.05.06|Informes|A1.09.03.07.05|7
+A1.09.03.07.05.07|Jornadas, seminarios y congresos|A1.09.03.07.05|7
+A1.09.03.07.06|Participación internacional|A1.09.03.07|6
+A1.09.03.07.06.01|Acuerdos y convenios|A1.09.03.07.06|7
+A1.09.03.07.06.03|Correspondencia|A1.09.03.07.06|7
+A1.09.03.07.06.04|Exptes. de participación|A1.09.03.07.06|7
+A1.09.03.07.06.05|Reuniones|A1.09.03.07.06|7
+A1.09.03.07.06.06|Informes|A1.09.03.07.06|7
+A1.09.03.07.06.07|Jornadas, seminarios y congresos|A1.09.03.07.06|7
+A1.09.03.07.07|Participación en entidades de cooperación (ISCOD)|A1.09.03.07|6
+A1.09.03.07.07.01|Acuerdos y convenios|A1.09.03.07.07|7
+A1.09.03.07.07.04|Exptes. de participación|A1.09.03.07.07|7
+A1.09.03.07.07.07|Jornadas, seminarios y congresos|A1.09.03.07.07|7
+A1.09.03.08|Comunicación e Imagen|A1.09.03|5
+A1.09.03.08.01|Correspondencia|A1.09.03.08|7
+A1.09.03.08.02|Dossier de prensa|A1.09.03.08|7
+A1.09.03.08.03|Publicaciones periódicas|A1.09.03.08|7
+A1.09.03.08.04|Ruedas de prensa|A1.09.03.08|7
+A1.09.03.09|Cultura|A1.09.03|5
+A1.09.03.09.01|Correspondencia|A1.09.03.09|7
+A1.09.03.09.02|Informes|A1.09.03.09|7
+A1.09.03.09.03|Jornadas y cursos|A1.09.03.09|7
+A1.09.03.09.04|Exposiciones y otras actividades|A1.09.03.09|7
+A1.09.03.09.05|Publicaciones|A1.09.03.09|7
+A1.09.03.10|Desarrollo Económico y Evaluación Técnica|A1.09.03|5
+A1.09.03.10.01|Desarrollo Económico|A1.09.03.10|6
+A1.09.03.10.01.01|Correspondencia|A1.09.03.10.01|7
+A1.09.03.10.01.02|Informes|A1.09.03.10.01|7
+A1.09.03.10.01.03|Jornadas|A1.09.03.10.01|7
+A1.09.03.10.02|Evaluación y Mercado de Trabajo|A1.09.03.10|6
+A1.09.03.10.02.01|Correspondencia|A1.09.03.10.02|7
+A1.09.03.10.02.02|Informes|A1.09.03.10.02|7
+A1.09.03.10.02.03|Jornadas|A1.09.03.10.02|7
+A1.09.04|Consejo|A1.09|4
+A1.09.04.01|Consejos Ordinarios|A1.09.04|7
+A1.09.05|Comisión de Control Económico|A1.09|4
+A1.09.05.01|Correspondencia|A1.09.05|7
+A1.09.05.02|Exp. Comisión de Control Económico|A1.09.05|7
+A1.09.06|Comisión de Garantías|A1.09|4
+A1.09.06.01|Correspondencia|A1.09.06|7
+A1.09.06.02|Exp. Comisión de Garantías|A1.09.06|7
+A1.09.07|Asesoría Jurídica|A1.09|4
+A1.09.07.01|Exptes. Jurídicos|A1.09.07|7
+A1.09.07.02|Informes|A1.09.07|7
+A1.09.07.03|Correspondencia|A1.09.07|7
+A1.09.08|Fundaciones y organismos colaboradores|A1.09|4
+A1.09.08.01|FUDEPA|A1.09.08|5
+A1.09.08.01.01|Correspondencia|A1.09.08.01|7
+A1.09.08.01.02|Memorias|A1.09.08.01|7
+A1.09.08.01.03|Planes de actuación|A1.09.08.01|7
+A1.09.08.02|FSLA|A1.09.08|5
+A1.09.08.02.01|Correspondencia|A1.09.08.02|7
+A1.09.08.02.02|Memorias|A1.09.08.02|7
+A1.09.08.02.03|Planes de actuación|A1.09.08.02|7
+A1.09.08.03|ESCULAPIO|A1.09.08|5
+A1.09.08.03.01|Correspondencia|A1.09.08.03|7
+A1.09.08.03.02|Memorias|A1.09.08.03|7
+A1.09.08.03.03|Planes de actuación|A1.09.08.03|7
+A1.09.08.04|SORALPE|A1.09.08|5
+A1.09.08.04.01|Correspondencia|A1.09.08.04|7
+A1.09.08.04.02|Memorias|A1.09.08.04|7
+A1.09.08.04.03|Planes de actuación|A1.09.08.04|7
+A1.09.08.05|Otros organismos colaboradores|A1.09.08|5
+A1.09.08.05.01|Correspondencia|A1.09.08.05|7
+A1.11|Federación de Industrias Afines (FIA)|A1|3
+A1.11.09|FIA-UGT Andalucía|A1.11|37
+A1.11.09.01|Congreso|A1.11.09|4
+A1.11.09.01.01|Congresos Ordinarios|A1.11.09.01|7
+A1.11.09.01.02|Congresos Extraordinarios|A1.11.09.01|7
+A1.11.09.02|Comité|A1.11.09|4
+A1.11.09.02.01|Comités Ordinarios|A1.11.09.02|7
+A1.11.09.02.02|Comités Extraordinarios|A1.11.09.02|7
+A1.11.09.03|Comisión Ejecutiva|A1.11.09|4
+A1.11.09.03.01|Secretaría General|A1.11.09.03|5
+A1.11.09.03.01.01|Secretaría|A1.11.09.03.01|6
+A1.11.09.03.01.01.01|Correspondencia|A1.11.09.03.01.01|7
+A1.11.09.03.01.01.02|Libro Registro de Entrada-Salida|A1.11.09.03.01.01|7
+A1.11.09.03.02|Organización|A1.11.09.03|5
+A1.11.09.03.02.01|Afiliaciones|A1.11.09.03.02|6
+A1.11.09.03.02.01.01|Correspondencia|A1.11.09.03.02.01|7
+A1.11.09.03.02.01.02|Afiliaciones|A1.11.09.03.02.01|7
+A1.11.09.03.02.01.99|Varios|A1.11.09.03.02.01|7
+A1.11.09.03.02.03|Elecciones Sindicales|A1.11.09.03.02|6
+A1.11.09.03.02.03.01|Correspondencia|A1.11.09.03.02.03|7
+A1.11.09.03.02.03.02|Expedientes de Elecciones Sindicales|A1.11.09.03.02.03|7
+A1.11.09.03.02.03.99|Varios|A1.11.09.03.02.03|7
+A1.11.09.03.02.04|Movilizaciones y conflictos|A1.11.09.03.02|6
+A1.11.09.03.02.04.01|Correspondencia|A1.11.09.03.02.04|7
+A1.11.09.03.02.04.02|Huelgas y movilizaciones|A1.11.09.03.02.04|7
+A1.11.09.03.02.04.99|Varios|A1.11.09.03.02.04|7
+A1.11.09.03.02.05|Secretaría|A1.11.09.03.02|6
+A1.11.09.03.02.05.01|Correspondencia|A1.11.09.03.02.05|7
+A1.11.09.03.02.05.99|Varios|A1.11.09.03.02.05|7
+A1.11.09.03.03|Administración|A1.11.09.03|5
+A1.11.09.03.03.01|Contabilidad|A1.11.09.03.03|6
+A1.11.09.03.03.01.02|Extractos de cuentas bancarias|A1.11.09.03.03.01|7
+A1.11.09.03.03.01.05|Justificantes de asientos contables|A1.11.09.03.03.01|7
+A1.11.09.03.03.01.99|Documentos contables|A1.11.09.03.03.01|7
+A1.11.09.03.03.01.99.01|Año 1995|A1.11.09.03.03.01.99|8
+A1.11.09.03.03.01.99.02|Año 1996|A1.11.09.03.03.01.99|8
+A1.11.09.03.03.01.99.03|Año 1997|A1.11.09.03.03.01.99|8
+A1.11.09.03.03.01.99.04|Año 1998|A1.11.09.03.03.01.99|8
+A1.11.09.03.03.01.99.05|Año 1999|A1.11.09.03.03.01.99|8
+A1.11.09.03.03.01.99.06|Año 2000|A1.11.09.03.03.01.99|8
+A1.11.09.03.03.01.99.07|Año 2001|A1.11.09.03.03.01.99|8
+A1.11.09.03.03.01.99.08|Año 2002|A1.11.09.03.03.01.99|8
+A1.11.09.03.03.01.99.09|Año 2003|A1.11.09.03.03.01.99|8
+A1.11.09.03.03.01.99.10|Año 2004|A1.11.09.03.03.01.99|8
+A1.11.09.03.03.01.99.11|Año 2005|A1.11.09.03.03.01.99|8
+A1.11.09.03.03.01.99.12|Año 2006|A1.11.09.03.03.01.99|8
+A1.11.09.03.03.01.99.13|Año 2007|A1.11.09.03.03.01.99|8
+A1.11.09.03.03.02|Cuotas|A1.11.09.03.03|6
+A1.11.09.03.03.02.01|Cotizaciones|A1.11.09.03.03.02|7
+A1.11.09.03.03.05|Personal|A1.11.09.03.03|6
+A1.11.09.03.03.05.01|Correspondencia|A1.11.09.03.03.05|7
+A1.11.09.03.03.05.99|Varios|A1.11.09.03.03.05|7
+A1.11.09.03.03.06|Secretaría|A1.11.09.03.03|6
+A1.11.09.03.03.06.01|Correspondencia|A1.11.09.03.03.06|7
+A1.11.09.03.03.06.99|Varios|A1.11.09.03.03.06|7
+A1.11.09.03.03.07|Tiempo Libre|A1.11.09.03.03|6
+A1.11.09.03.03.07.01|Correspondencia|A1.11.09.03.03.07|7
+A1.11.09.03.04|Acción Sindical|A1.11.09.03|5
+A1.11.09.03.05|Formación|A1.11.09.03|5
+A1.11.09.03.06|Acción Social|A1.11.09.03|5
+A1.11.09.03.10|Secretarías Sectoriales|A1.11.09.03|5
+A1.11.09.03.10.01|Sector Energético|A1.11.09.03.10|6
+A1.11.09.03.10.01.99|Documentación|A1.11.09.03.10.01|7
+A1.11.09.03.10.02|Sector Minero|A1.11.09.03.10|6
+A1.11.09.03.10.02.99|Documentación|A1.11.09.03.10.02|7
+A1.11.09.03.10.03|Sector Químico|A1.11.09.03.10|6
+A1.11.09.03.10.03.99|Documentación|A1.11.09.03.10.03|7
+A1.11.09.03.10.04|Sector Textil-Piel|A1.11.09.03.10|6
+A1.11.09.03.10.04.99|Documentación|A1.11.09.03.10.04|7
+A1.11.09.04|Secciones Sindicales|A1.11.09|4
+A1.14|Federación de Servicios Públicos (FSP)|A1|3
+A1.14.09|FSP-UGT Andalucía|A1.14|37
+A1.14.09.01|Congreso|A1.14.09|4
+A1.14.09.01.01|Congreso Ordinario|A1.14.09.01|7
+A1.14.09.01.02|Congreso Extraordinario|A1.14.09.01|7
+A1.14.09.01.03|Congreso Federal Ordinario|A1.14.09.01|7
+A1.14.09.01.04|Congreso Federal Extraordinario|A1.14.09.01|7
+A1.14.09.02|Comité|A1.14.09|4
+A1.14.09.02.01|Comité Ordinario|A1.14.09.02|7
+A1.14.09.02.02|Comité Extraordinario|A1.14.09.02|7
+A1.14.09.02.03|Comité Federal Ordinario|A1.14.09.02|7
+A1.14.09.02.04|Comité Federal Extraordinario|A1.14.09.02|7
+A1.18|Unión de Pequeños Agricultores|A1|3
+A1.18.09|UPA-UGT Andalucía|A1.18|37
+A1.21|FUDEPA|A1|3
+A1.21.01|Presidencia|A1.21|4
+A1.21.01.01|Correspondencia|A1.21.01|7
+A1.21.01.02|Convocatorias|A1.21.01|7
+A1.21.01.03|Memorias|A1.21.01|7
+A1.21.02|Gerencia|A1.21|4
+A1.21.02.01|Correspondencia|A1.21.02|7
+A1.21.02.02|Asociaciones|A1.21.02|7
+A1.21.02.03|Contratos|A1.21.02|7
+A1.21.02.04|Convenios|A1.21.02|7
+A1.21.02.05|Currículos|A1.21.02|7
+A1.21.02.06|Memorias y Planes de Actuación|A1.21.02|7
+A1.21.02.07|Subvenciones|A1.21.02|7
+A1.21.03|Secretaría|A1.21|4
+A1.21.03.01|Correspondencia|A1.21.03|7
+A1.21.03.02|Actas|A1.21.03|7
+A1.21.03.03|Convocatorias|A1.21.03|7
+A1.21.03.04|Documentación|A1.21.03|7
+A1.21.04|Administración|A1.21|4
+A1.21.04.01|Correspondencia|A1.21.04|7
+A1.21.04.02|Presupuestos|A1.21.04|7
+A1.21.04.03|Nóminas|A1.21.04|7
+A1.21.04.04|Contratos de Personal|A1.21.04|7
+A1.21.04.05|Partes de Alta/Baja/Justificantes Personal|A1.21.04|7
+A1.21.04.06|Mantenimiento Instalaciones|A1.21.04|7
+A1.21.05|Contabilidad|A1.21|4
+A1.21.05.01|Facturas de Gastos|A1.21.05|7
+A1.21.05.02|Facturas de Ingresos|A1.21.05|7
+A1.21.05.03|Notas de Cargos/Abonos|A1.21.05|7
+A1.21.05.04|Cuentas Bancarias|A1.21.05|7
+A1.21.05.05|Facturas con cargo a otras entidades|A1.21.05|7
+A1.21.05.06|Notas de Pago|A1.21.05|7
+A1.21.05.07|Albaranes/Pedidos|A1.21.05|7
+A1.21.05.08|Justificantes Bancarios|A1.21.05|7
+A1.21.05.09|Impuestos|A1.21.05|7
+A1.21.06|Archivo Histórico|A1.21|4
+A1.21.06.01|Correspondencia|A1.21.06|7
+A1.21.06.02|Actas de Entrega|A1.21.06|7
+A1.21.06.03|Claves de Acceso|A1.21.06|7
+A1.21.06.04|Consultas|A1.21.06|7
+A1.21.06.05|Declaración de Compromiso y Confidencialidad|A1.21.06|7
+A1.21.06.06|Memorias e Informes|A1.21.06|7
+A1.21.06.07|Transferencias|A1.21.06|7
+A1.21.06.08|Exposiciones y otras actividades|A1.21.06|7
+A1.21.06.09|Jornadas, congresos, cursos|A1.21.06|7
+A1.21.07|Biblioteca Digital Migraciones e Interculturalidad|A1.21|4
+A1.21.07.01|Correspondencia|A1.21.07|7
+A1.21.07.02|Gestión Derechos Autor|A1.21.07|7
+A1.21.07.03|Listados|A1.21.07|7
+A1.21.07.04|Memorias e Informes|A1.21.07|7
+A1.21.07.05|Claves de acceso|A1.21.07|7
+A1.21.07.06|Convenios|A1.21.07|7
+A1.21.07.07|Préstamos|A1.21.07|7
+A1.21.08|Cooperación al Desarrollo|A1.21|4
+A1.21.08.01|Expedientes de Cooperación|A1.21.08|7
+A1.21.09|Cultura y Formación|A1.21|4
+A1.21.09.01|Proyectos de Investigación|A1.21.09|7
+A1.21.09.02|Publicaciones|A1.21.09|7
+A1.21.09.03|Exposiciones y otras actividades|A1.21.09|7
+A1.21.10|Desarrollo Económico y Empleo|A1.21|4
+A1.21.10.01|Premio Progreso|A1.21.10|7
+A1.21.11|Informática|A1.21|4
+A1.21.11.01|Correspondencia|A1.21.11|7
+A1.21.11.02|Programas|A1.21.11|7
+A1.21.11.03|Prueba|A1.21.11|7
+A1.21.11.03.01|Aplicaciones|A1.21.11.03|8
+A1.21.11.03.01.01|GEAR|A1.21.11.03.01|9
+A1.21.11.03.01.02|Ofimática|A1.21.11.03.01|9
+A1.21.11.03.02|WEB|A1.21.11.03|8
+A1.21.11.03.02.01|Archivo|A1.21.11.03.02|9
+A1.21.11.03.02.02|Biblioteca|A1.21.11.03.02|9
+A1.21.11.99|Varios|A1.21.11|7
+A1.21.12|Investigación Sociológica|A1.21|4
+A1.21.12.01|Informes y Estudios|A1.21.12|7
+A1.21.13|Prestación de Servicios|A1.21|4
+A1.21.13.01|Varios|A1.21.13|7
+A1.21.14|Escuela Largo Caballero|A1.21|4
+A1.21.14.01|Correspondencia|A1.21.14|7
+A1.21.14.02|Expedientes de Formación|A1.21.14|7
+A1.21.15|Biblioteca del Trabajo|A1.21|4
+A1.21.15.01|Correspondencia|A1.21.15|7
+A1.21.15.02|Gestión Derechos de Autor|A1.21.15|7
+A1.21.15.03|Listados|A1.21.15|7
+A1.21.15.04|Memorias e Informes|A1.21.15|7
+A1.21.15.05|Claves de acceso|A1.21.15|7
+A1.21.15.06|Convenios|A1.21.15|7
+A1.21.15.07|Préstamos|A1.21.15|7
+A1.21.16|Memoria Democrática|A1.21|4
+A1.21.16.01|Correspondencia|A1.21.16|7
+A1.21.16.02|Estudios y publicaciones|A1.21.16|7
+A1.21.16.03|Reuniones|A1.21.16|7
+A1.21.16.04|Subvenciones|A1.21.16|7
+A1.22|Fundación Sociolaboral de Andalucía|A1|3
+A1.22.01|Centro Provincial de Almería|A1.22|37
+A1.22.02|Centro Provincial de Cádiz|A1.22|37
+A1.22.03|Centro Provincial de Córdoba|A1.22|37
+A1.22.04|Centro Provincial de Granada|A1.22|37
+A1.22.04.01|Coordinador|A1.22.04|4
+A1.22.04.01.01|Correspondencia|A1.22.04.01|7
+A1.22.04.01.02|Comunicados|A1.22.04.01|7
+A1.22.04.01.03|Encuestas|A1.22.04.01|7
+A1.22.04.01.04|Informes|A1.22.04.01|7
+A1.22.04.01.05|Memorias|A1.22.04.01|7
+A1.22.04.01.06|Reuniones|A1.22.04.01|7
+A1.22.04.02|Administración|A1.22.04|4
+A1.22.04.02.01|Correspondencia|A1.22.04.02|7
+A1.22.04.02.02|Nóminas|A1.22.04.02|7
+A1.22.04.02.03|Personal|A1.22.04.02|7
+A1.22.04.02.04|Presupuestos|A1.22.04.02|7
+A1.22.04.03|Contabilidad|A1.22.04|4
+A1.22.04.03.01|Facturas de Gastos|A1.22.04.03|7
+A1.22.04.03.02|Facturas de Ingresos|A1.22.04.03|7
+A1.22.04.03.03|Notas de Cargos/Abonos|A1.22.04.03|7
+A1.22.04.03.04|Cuentas Bancarias|A1.22.04.03|7
+A1.22.04.03.05|Facturas con cargo a otras entidades|A1.22.04.03|7
+A1.22.04.03.06|Notas de Pago|A1.22.04.03|7
+A1.22.04.03.07|Albaranes/Pedidos|A1.22.04.03|7
+A1.22.04.03.08|Justificantes Bancarios|A1.22.04.03|7
+A1.22.04.03.09|Impuestos|A1.22.04.03|7
+A1.22.04.04|Servicios Jurídicos|A1.22.04|4
+A1.22.04.04.01|Despacho 1|A1.22.04.04|5
+A1.22.04.04.01.01|Expedientes Jurídicos|A1.22.04.04.01|7
+A1.22.04.04.02|Despacho 2|A1.22.04.04|5
+A1.22.04.04.02.01|Expedientes Jurídicos|A1.22.04.04.02|7
+A1.22.04.04.03|Despacho 3|A1.22.04.04|5
+A1.22.04.04.03.01|Expedientes Jurídicos|A1.22.04.04.03|7
+A1.22.04.04.04|Despacho 4|A1.22.04.04|5
+A1.22.04.04.04.01|Expedientes Jurídicos|A1.22.04.04.04|7
+A1.22.05|Centro Provincial de Huelva|A1.22|37
+A1.22.06|Centro Provincial de Jaén|A1.22|37
+A1.22.07|Centro Provincial de Málaga|A1.22|37
+A1.22.08|Centro Provincial de Sevilla|A1.22|37
+A1.22.09|Servicios Centrales|A1.22|37
+A1.22.09.01|Coordinador|A1.22.09|4
+A1.22.09.01.01|Correspondencia|A1.22.09.01|7
+A1.22.09.01.02|Comunicados|A1.22.09.01|7
+A1.22.09.01.03|Encuestas|A1.22.09.01|7
+A1.22.09.01.04|Informes|A1.22.09.01|7
+A1.22.09.01.05|Memorias|A1.22.09.01|7
+A1.22.09.01.06|Reuniones|A1.22.09.01|7
+A1.22.09.02|Administración|A1.22.09|4
+A1.22.09.02.01|Correspondencia|A1.22.09.02|7
+A1.22.09.02.02|Nóminas|A1.22.09.02|7
+A1.22.09.02.03|Personal|A1.22.09.02|7
+A1.22.09.02.04|Presupuestos|A1.22.09.02|7
+A1.22.09.03|Contabilidad|A1.22.09|4
+A1.22.09.03.01|Facturas de Gastos|A1.22.09.03|7
+A1.22.09.03.02|Facturas de Ingresos|A1.22.09.03|7
+A1.22.09.03.03|Notas de Cargos/Abonos|A1.22.09.03|7
+A1.22.09.03.04|Cuentas Bancarias|A1.22.09.03|7
+A1.22.09.03.05|Facturas con cargo a otras entidades|A1.22.09.03|7
+A1.22.09.03.06|Notas de Pago|A1.22.09.03|7
+A1.22.09.03.07|Albaranes/Pedidos|A1.22.09.03|7
+A1.22.09.03.08|Justificantes Bancarios|A1.22.09.03|7
+A1.22.09.03.09|Impuestos|A1.22.09.03|7
+A1.22.09.04|Servicios Jurídicos|A1.22.09|4
+A1.22.09.04.01|Despacho 1|A1.22.09.04|5
+A1.22.09.04.01.01|Expedientes Jurídicos|A1.22.09.04.01|7
+A1.22.09.04.02|Despacho 2|A1.22.09.04|5
+A1.22.09.04.02.01|Expedientes Jurídicos|A1.22.09.04.02|7
+A1.22.09.04.03|Despacho 3|A1.22.09.04|5
+A1.22.09.04.03.01|Expedientes Jurídicos|A1.22.09.04.03|7
+A1.22.09.04.04|Despacho 4|A1.22.09.04|5
+A1.22.09.04.04.01|Expedientes Jurídicos|A1.22.09.04.04|7
+A1.23|Federación de Industria y Trabajadores Agrarios (FITAG)|A1|3
+A1.23.09|FITAG-UGT Andalucía|A1.23|37
+A1.25|Servicios para la Movilidad y el Consumo (SMC)|A1|3
+A1.25.09|SMC-UGT Andalucía|A1.25|37
+A1.C1|Uniones Comarcales y Locales de Almería|A1|3
+A1.C2|Uniones Comarcales y Locales de Cádiz|A1|3
+A1.C2.01|Chiclana de la Frontera|A1.C2|37
+A1.C2.02|Jerez de la Frontera|A1.C2|37
+A1.C2.03|La Línea de la Concepción|A1.C2|37
+A1.C3|Uniones Comarcales y Locales de Córdoba|A1|3
+A1.C3.01|Palma del Río|A1.C3|37
+A1.C3.02|Baena|A1.C3|37
+A1.C3.03|Peñarroya-Pueblonuevo|A1.C3|37
+A1.C3.04|Puente Genil|A1.C3|37
+A1.C3.05|Pozoblanco|A1.C3|37
+A1.C3.06|La Rambla|A1.C3|37
+A1.C4|Uniones Comarcales y Locales de Granada|A1|3
+A1.C4.01|Motril|A1.C4|37
+A1.C4.02|Costa Alpujarra|A1.C4|37
+A1.C5|Uniones Comarcales y Locales de Huelva|A1|3
+A1.C6|Uniones Comarcales y Locales de Jaén|A1|3
+A1.C6.01|Andújar|A1.C6|37
+A1.C6.02|La Carolina|A1.C6|37
+A1.C6.03|Úbeda|A1.C6|37
+A1.C6.04|Martos|A1.C6|37
+A1.C7|Uniones Comarcales y Locales de Málaga|A1|3
+A1.C8|Uniones Comarcales y Locales de Sevilla|A1|3
+A1.D1|Donaciones (1900-1950)|A1|3
+A1.D1.13|Valle Arévalo, Manuel del|A1.D1|4
+A1.D1.13.00|Correspondencia|A1.D1.13|7
+A1.D1.14|Maldonado Sánchez-Vera, Enrique|A1.D1|4
+A1.D1.14.00|Serie|A1.D1.14|7
+A1.D2|Donaciones (1950-    )|A1|3
+A1.H1|Fondo Histórico (1900-1950)|A1|3
+A1.H1.01|Almería|A1.H1|37
+A1.H1.01.00|Varios|A1.H1.01|7
+A1.H1.01.01|Casas del Pueblo y Sociedades de Obreras|A1.H1.01|4
+A1.H1.02|Cádiz|A1.H1|37
+A1.H1.02.01|Casas del Pueblo y Sociedades Obreras|A1.H1.02|4
+A1.H1.02.01.01|Actas|A1.H1.02.01|7
+A1.H1.03|Córdoba|A1.H1|37
+A1.H1.03.01|Sociedades Obreras y Federaciones|A1.H1.03|4
+A1.H1.03.01.00|Serie|A1.H1.03.01|7
+A1.H1.03.02|Casas del Pueblo|A1.H1.03|4
+A1.H1.04|Granada|A1.H1|37
+A1.H1.05|Huelva|A1.H1|37
+A1.H1.06|Jaén|A1.H1|37
+A1.H1.07|Málaga|A1.H1|37
+A1.H1.07.00|Varios|A1.H1.07|7
+A1.H1.07.01|Casas del Pueblo y Sociedades Obreras|A1.H1.07|7
+A1.H1.08|Sevilla|A1.H1|37
+A1.H2|Colección Histórica. Cádiz|A1|3
+A1.H2.01|Cádiz|A1.H2|37
+A1.H3|Colección Histórica. Córdoba|A1|3
+A1.H3.01|Córdoba|A1.H3|37
+A1.H3.03|Peñarroya-Pueblonuevo|A1.H3|37
+A1.H3.05|Pozoblanco|A1.H3|37
+A1.P1|Préstamos|A1|3
+A1.P1.00|Comunes|A1.P1|4
+A1.P1.00.00|Varios Comunes|A1.P1.00|7
+A1.P1.01|Defensa Jurídica|A1.P1|4
+A1.P1.01.01|Jurídica|A1.P1.01|7
+A1.P1.01.02|Asesoría Jurídica Almería|A1.P1.01|7
+A1.P1.01.03|Asesoría Jurídica Cádiz|A1.P1.01|7
+A1.P1.01.04|Asesoría Jurídica Córdoba|A1.P1.01|7
+A1.P1.01.05|Asesoría Jurídica Granada|A1.P1.01|7
+A1.P1.01.06|Asesoría Jurídica Huelva|A1.P1.01|7
+A1.P1.01.07|Asesoría Jurídica Jaén|A1.P1.01|7
+A1.P1.01.08|Asesoría Jurídica Málaga|A1.P1.01|7
+A1.P1.01.09|Asesoría Jurídica Sevilla|A1.P1.01|7
+A1.P1.01.10|Asesoría Jurídica Capitán Vigueras|A1.P1.01|7
+A1.P1.02|Desarrollo Rural|A1.P1|4
+A1.P1.02.01|Desarrollo Rural|A1.P1.02|7
+A1.P1.03|Empleo y relaciones laborales|A1.P1|4
+A1.P1.03.01|Empleo y relaciones laborales|A1.P1.03|7
+A1.P1.04|Formación|A1.P1|4
+A1.P1.04.01|Formación|A1.P1.04|7
+A1.P1.05|Estado del Bienestar|A1.P1|4
+A1.P1.05.01|Bienestar|A1.P1.05|7
+A1.P1.05.02|Discapacidad|A1.P1.05|7
+A1.P1.05.03|Mayores|A1.P1.05|7
+A1.P1.05.04|Vivienda|A1.P1.05|7
+A1.P1.06|Concertación y desarrollo económico|A1.P1|4
+A1.P1.06.01|Concertación|A1.P1.06|7
+A1.P1.06.02|Reforma Estatuto de Andalucía|A1.P1.06|7
+A1.P1.06.03|Participación|A1.P1.06|7
+A1.P1.07|Acción Social. Mujer y otros sectores|A1.P1|4
+A1.P1.07.01|Juventud|A1.P1.07|7
+A1.P1.07.02|Mayores|A1.P1.07|7
+A1.P1.07.03|Migraciones|A1.P1.07|7
+A1.P1.07.04|Mujer|A1.P1.07|7
+A1.P1.08|Movilizaciones y cambio social|A1.P1|4
+A1.P1.08.01|Movilizaciones y cambio social|A1.P1.08|7
+A1.P1.08.02|Dossier de prensa|A1.P1.08|7
+A1.P1.09|Congresos|A1.P1|4
+A1.P1.09.01|Congresos UGT-A|A1.P1.09|7
+A1.P1.09.02|Congresos Almería|A1.P1.09|7
+A1.P1.09.03|Congresos Granada|A1.P1.09|7
+A1.P1.10|Comités|A1.P1|4
+A1.P1.10.01|Comités Ordinarios de UGT-A|A1.P1.10|7
+A1.P1.11|Concertación en Andalucía|A1.P1|4
+A1.P1.11.01|Acuerdos de Concertación|A1.P1.11|7
+A1.P1.12|Historia de UGT Málaga|A1.P1|4
+A2|Fondos Documentales de Procedencia Externa||46
+A2.01|Despacho laboralista|A2|48
+A2.01.01|Servicios Jurídicos|A2.01|49
+A2.01.01.01|Expedientes|A2.01.01|51
+A2.01.01.02|Informes|A2.01.01|51
+A2.01.01.03|Libros de registro y ficheros|A2.01.01|51
+A2.01.01.99|Expedientes Jurídicos|A2.01.01|51
+A2.01.02|Administración|A2.01|49
+A2.01.02.01|Contabilidad|A2.01.02|51
+A2.02|Partidos Políticos|A2|48
+A2.03|Memoria Democrática|A2|48
+A2.03.01|Archivo del Tribunal Militar Territorial Segundo de Sevilla (ATMT2º)|A2.03|49
+A2.03.01.01|Procedimientos Judiciales|A2.03.01|51
+A2.03.01.02|Procedimientos Judiciales-Movimiento obrero|A2.03.01|51
+F1|Fototeca||10
+F1.01|Unión Provincial de Almería|F1|11
+F1.01.00|Sección|F1.01|12
+F1.01.00.00|Reportaje|F1.01.00|13
+F1.02|Unión Provincial de Cádiz|F1|11
+F1.02.00|Sección|F1.02|12
+F1.02.00.00|Reportaje|F1.02.00|13
+F1.03|Unión Provincial de Córdoba|F1|11
+F1.03.00|Sección|F1.03|12
+F1.03.00.00|Reportaje|F1.03.00|13
+F1.03.00.01|Jornada Euro|F1.03.00|13
+F1.03.01|Congresos|F1.03|12
+F1.03.01.01|Reportaje|F1.03.01|13
+F1.03.02|Comités|F1.03|12
+F1.03.02.01|Reportaje|F1.03.02|13
+F1.03.03|Actos institucionales|F1.03|12
+F1.03.03.01|Reportaje|F1.03.03|13
+F1.03.04|Asambleas y campañas|F1.03|12
+F1.03.04.01|Reportaje|F1.03.04|13
+F1.03.05|Cursos, jornadas, seminarios|F1.03|12
+F1.03.05.01|Reportaje|F1.03.05|13
+F1.03.06|Dirigentes sindicales|F1.03|12
+F1.03.06.01|Reportaje|F1.03.06|13
+F1.03.07|Homenajes y aniversarios|F1.03|12
+F1.03.07.01|Reportaje|F1.03.07|13
+F1.03.08|Movilizaciones|F1.03|12
+F1.03.08.01|Reportaje|F1.03.08|13
+F1.03.09|Patrimonio|F1.03|12
+F1.03.09.01|Reportaje|F1.03.09|13
+F1.03.10|Personal|F1.03|12
+F1.03.10.01|Reportaje|F1.03.10|13
+F1.03.11|Primero de Mayo|F1.03|12
+F1.03.11.01|Reportaje|F1.03.11|13
+F1.03.12|Reuniones sindicales|F1.03|12
+F1.03.12.01|Reportaje|F1.03.12|13
+F1.03.13|Ruedas de prensa|F1.03|12
+F1.03.13.01|Reportaje|F1.03.13|13
+F1.03.14|Solidaridad y cooperación|F1.03|12
+F1.03.14.01|Reportaje|F1.03.14|13
+F1.03.15|Vida social|F1.03|12
+F1.03.15.01|Reportaje|F1.03.15|13
+F1.03.16|Visitas|F1.03|12
+F1.03.16.01|Reportaje|F1.03.16|13
+F1.03.99|Varios|F1.03|12
+F1.03.99.01|Reportaje|F1.03.99|13
+F1.04|Unión Provincial de Granada|F1|11
+F1.04.00|Sección|F1.04|12
+F1.04.00.00|Reportaje|F1.04.00|13
+F1.05|Unión Provincial de Huelva|F1|11
+F1.05.00|Sección|F1.05|12
+F1.05.00.00|Reportaje|F1.05.00|13
+F1.06|Unión Provincial de Jaén|F1|11
+F1.06.00|Sección|F1.06|12
+F1.06.00.00|Reportaje|F1.06.00|13
+F1.07|Unión Provincial de Málaga|F1|11
+F1.07.00|Sección|F1.07|12
+F1.07.00.00|Reportaje|F1.07.00|13
+F1.08|Unión Provincial de Sevilla|F1|11
+F1.08.00|Sección|F1.08|12
+F1.08.00.00|Reportaje|F1.08.00|13
+F1.09|UGT-Andalucía|F1|11
+F1.09.00|Sección|F1.09|12
+F1.09.00.00|Unidad Fotográfica|F1.09.00|13
+F1.09.01|Congresos|F1.09|12
+F1.09.01.01|Reportaje|F1.09.01|13
+F1.09.02|Comités|F1.09|12
+F1.09.02.00|Reportaje|F1.09.02|13
+F1.09.02.01|Reportaje|F1.09.02|13
+F1.09.03|Actos Institucionales|F1.09|12
+F1.09.03.00|Reportaje|F1.09.03|13
+F1.09.03.01|Reportaje|F1.09.03|13
+F1.09.04|Asambleas y campañas|F1.09|12
+F1.09.04.00|Reportaje|F1.09.04|13
+F1.09.04.01|Reportaje|F1.09.04|13
+F1.09.05|Cursos, jornadas, seminarios|F1.09|12
+F1.09.05.00|Reportaje|F1.09.05|13
+F1.09.05.01|Reportaje|F1.09.05|13
+F1.09.06|Dirigentes sindicales|F1.09|12
+F1.09.06.00|Reportaje|F1.09.06|13
+F1.09.06.01|Reportaje|F1.09.06|13
+F1.09.07|Homenajes y aniversarios|F1.09|12
+F1.09.07.00|Reportaje|F1.09.07|13
+F1.09.07.01|Reportaje|F1.09.07|13
+F1.09.08|Movilizaciones|F1.09|12
+F1.09.08.00|Reportaje|F1.09.08|13
+F1.09.08.01|Reportaje|F1.09.08|13
+F1.09.09|Patrimonio|F1.09|12
+F1.09.09.00|Reportaje|F1.09.09|13
+F1.09.09.01|Reportaje|F1.09.09|13
+F1.09.10|Personal|F1.09|12
+F1.09.10.00|Reportaje|F1.09.10|13
+F1.09.10.01|Reportaje|F1.09.10|13
+F1.09.11|Primero de Mayo|F1.09|12
+F1.09.11.00|Reportaje|F1.09.11|13
+F1.09.11.01|Reportaje|F1.09.11|13
+F1.09.12|Reuniones sindicales|F1.09|12
+F1.09.12.01|Reportaje|F1.09.12|13
+F1.09.13|Ruedas de prensa|F1.09|12
+F1.09.13.01|Reportaje|F1.09.13|13
+F1.09.14|Solidaridad y cooperación|F1.09|12
+F1.09.14.01|Reportaje|F1.09.14|13
+F1.09.15|Vida social|F1.09|12
+F1.09.15.01|Reportaje|F1.09.15|13
+F1.09.16|Visitas|F1.09|12
+F1.09.16.01|Reportaje|F1.09.16|13
+F1.09.99|Varios|F1.09|12
+F1.09.99.01|Reportaje|F1.09.99|13
+F1.11|Federación de Industrias Afines (FIA)|F1|11
+F1.13|Federación de Servicios (FES)|F1|11
+F1.13.08|FES-UGT Sevilla|F1.13|12
+F1.13.08.00|Varios|F1.13.08|13
+F1.13.08.01|Congresos|F1.13.08|13
+F1.13.08.02|Acción Sindical|F1.13.08|13
+F1.14|FOTOTECA. Federación de Servicios Públicos (FSP)|F1|11
+F1.14.01|FSP UGT Almería|F1.14|12
+F1.14.01.01|Congresos|F1.14.01|13
+F1.14.01.02|Comités|F1.14.01|13
+F1.14.01.08|Movilizaciones|F1.14.01|13
+F1.14.02|FSP UGT Cádiz|F1.14|12
+F1.14.02.02|Comités|F1.14.02|13
+F1.14.03|FSP UGT Córdoba|F1.14|12
+F1.14.03.01|Congresos|F1.14.03|13
+F1.14.03.02|Comités|F1.14.03|13
+F1.14.03.03|Actos institucionales|F1.14.03|13
+F1.14.03.04|Asambleas|F1.14.03|13
+F1.14.03.05|Cursos, jornadas, seminarios|F1.14.03|13
+F1.14.03.06|Dirigentes sindicales|F1.14.03|13
+F1.14.03.07|Homenajes y aniversarios|F1.14.03|13
+F1.14.03.08|Movilizaciones|F1.14.03|13
+F1.14.03.09|Patrimonio|F1.14.03|13
+F1.14.03.10|Personal|F1.14.03|13
+F1.14.03.11|Primero de Mayo|F1.14.03|13
+F1.14.03.12|Reuniones sindicales|F1.14.03|13
+F1.14.03.13|Ruedas de prensa|F1.14.03|13
+F1.14.03.14|Solidaridad|F1.14.03|13
+F1.14.03.15|Vida social|F1.14.03|13
+F1.14.03.99|Varios|F1.14.03|13
+F1.14.04|FSP UGT Granada|F1.14|12
+F1.14.04.05|Cursos, jornadas, seminarios|F1.14.04|13
+F1.14.04.08|Movilizaciones|F1.14.04|13
+F1.14.04.11|Primero de Mayo|F1.14.04|13
+F1.14.09|FSP-UGT Andalucía|F1.14|12
+F1.14.09.00|Varios|F1.14.09|13
+F1.14.09.01|Congresos|F1.14.09|13
+F1.14.09.02|Comités|F1.14.09|13
+F1.14.09.03|Actos institucionales|F1.14.09|13
+F1.14.09.04|Asambleas|F1.14.09|13
+F1.14.09.05|Cursos, jornadas, seminarios|F1.14.09|13
+F1.14.09.06|Dirigentes sindicales|F1.14.09|13
+F1.14.09.08|Movilizaciones|F1.14.09|13
+F1.14.09.12|Reuniones sindicales|F1.14.09|13
+F1.14.09.13|Ruedas de prensa|F1.14.09|13
+F1.16|Federación de Trabajadores de la Enseñanza (FETE)|F1|11
+F1.16.00|Sección|F1.16|12
+F1.16.00.00|Reportaje|F1.16.00|13
+F1.16.00.01|I Congreso FETE-A|F1.16.00|13
+F1.16.00.02|II Congreso FETE-A|F1.16.00|13
+F1.21|Fundación para el Desarrollo de los Pueblos de And|F1|11
+F1.21.00|Sección|F1.21|12
+F1.21.00.00|Reportaje|F1.21.00|13
+F1.21.00.01|Inauguración del Archivo|F1.21.00|13
+F1.21.01|Órganos de Gobierno|F1.21|12
+F1.21.02|Archivo|F1.21|12
+F1.21.02.02|Exposiciones|F1.21.02|13
+F1.21.03|Biblioteca|F1.21|12
+F1.21.03.01|Cursos, jornadas, seminarios|F1.21.03|13
+F1.21.04|Cooperación|F1.21|12
+F1.21.04.01|Actos|F1.21.04|13
+F1.21.04.02|Cursos|F1.21.04|13
+F1.21.04.03|Encuentros|F1.21.04|13
+F1.21.05|Cultura|F1.21|12
+F1.21.05.02|Exposiciones|F1.21.05|13
+F1.21.06|Premio Progreso|F1.21|12
+F1.21.06.06|Visitas|F1.21.06|13
+F1.21.07|Formación|F1.21|12
+F1.21.08|Informática|F1.21|12
+F1.21.09|Investigación|F1.21|12
+F1.21.10|Patrimonio|F1.21|12
+F1.21.10.01|Inauguraciones|F1.21.10|13
+F1.21.11|Personal|F1.21|12
+F1.C3|Uniones Comarcales y Locales de Córdoba|F1|11
+F1.C3.03|Peñarroya-Pueblonuevo|F1.C3|12
+F1.C3.05|Pozoblanco|F1.C3|12
+F1.C3.05.00|Prueba|F1.C3.05|13
+F1.D1|Fototeca: Donaciones|F1|11
+F1.D1.01|Dorado Zapatero, Carmen|F1.D1|12
+F1.D1.02|García Taguas, Manuel|F1.D1|12
+F1.D1.03|Gómez Urbano, Alfonso|F1.D1|12
+F1.D1.03.00|Varios|F1.D1.03|13
+F1.D1.03.01|Congresos|F1.D1.03|13
+F1.D1.03.04|Asambleas|F1.D1.03|13
+F1.D1.03.05|Cursos, jornadas, seminarios|F1.D1.03|13
+F1.D1.03.06|Dirigentes sindicales|F1.D1.03|13
+F1.D1.03.08|Movilizaciones|F1.D1.03|13
+F1.H1|Fototeca: Colección Histórica|F1|11
+F1.P1|Préstamos|F1|11
+F1.P1.00|Sección|F1.P1|12
+F1.P1.00.00|Colección personal|F1.P1.00|13
+F2|Colecciones Fotográficas de Procedencia Externa||2
+F2.01|Colección Andrés Aguilar|F2|30
+F2.01.00|Reportaje|F2.01|27
+F2.02|Colección José Alcaide Carrillo|F2|30
+F2.02.00|Reportaje|F2.02|27
+F2.03|Colección Antonio Alcaide Mengual|F2|30
+F2.03.00|Reportaje|F2.03|27
+F2.04|Colección Eduardo Ávila Cuadra|F2|30
+F2.04.00|Reportaje|F2.04|27
+F2.05|Colección José Baldomero Andrade|F2|30
+F2.05.00|Reportaje|F2.05|27
+F2.06|Colección Antonio Bueno|F2|30
+F2.06.00|Reportaje|F2.06|27
+F2.07|Colección Mª Carmen Bueno|F2|30
+F2.07.00|Reportaje|F2.07|27
+F2.08|Colección Carbonell|F2|30
+F2.08.00|Reportaje|F2.08|27
+F2.09|Colección Ana Carretero|F2|30
+F2.09.00|Reportaje|F2.09|27
+F2.10|Colección Mª Teresa Castro|F2|30
+F2.10.00|Reportaje|F2.10|27
+F2.11|Colección Jesús Cuadros Callava|F2|30
+F2.11.00|Reportaje|F2.11|27
+F2.12|Colección José García de Dios Bravo|F2|30
+F2.12.00|Reportaje|F2.12|27
+F2.13|Colección Carmen González Muñoz|F2|30
+F2.13.00|Reportaje|F2.13|27
+F2.14|Colección Manuela Luna|F2|30
+F2.14.00|Reportaje|F2.14|27
+F2.15|Colección Eduardo Mármol Bernal|F2|30
+F2.15.00|Reportaje|F2.15|27
+F2.16|Colección Mª Carmen Martínez Hernández|F2|30
+F2.16.00|Reportaje|F2.16|27
+F2.17|Colección Mª Carmen Pavón|F2|30
+F2.17.00|Reportaje|F2.17|27
+F2.18|Colección Dulce Pedraza|F2|30
+F2.18.00|Reportaje|F2.18|27
+F2.19|Colección Josefa Pérez Haro|F2|30
+F2.19.00|Reportaje|F2.19|27
+F2.20|Colección Eva Pérez Ortiz|F2|30
+F2.20.00|Reportaje|F2.20|27
+F2.21|Colección Francisco Ramos|F2|30
+F2.21.00|Reportaje|F2.21|27
+F2.22|Colección Francisco Rivas|F2|30
+F2.22.00|Reportaje|F2.22|27
+F2.23|Colección Francisco Román Morales|F2|30
+F2.23.00|Reportaje|F2.23|27
+F2.24|Colección Diego Romero Marín|F2|30
+F2.24.00|Reportaje|F2.24|27
+F2.25|Colección Juan Ruiz Gómez|F2|30
+F2.25.00|Reportaje|F2.25|27
+F2.26|Colección Paz Saldaña Bernal|F2|30
+F2.26.00|Reportaje|F2.26|27
+F2.27|Colección Manuel del Valle Arévalo|F2|30
+F2.27.00|Reportaje|F2.27|27
+J0|Expedientes Jurídicos|X|0
+M1|Colección Gráfica||32
+M1.01|Unión Provincial de Almería|M1|33
+M1.01.01|Carteles|M1.01|34
+M1.02|Unión Provincial de Cádiz|M1|33
+M1.02.01|Carteles|M1.02|34
+M1.03|Unión Provincial de Córdoba|M1|33
+M1.03.01|Carteles|M1.03|34
+M1.04|Unión Provincial de Granada|M1|33
+M1.04.01|Carteles|M1.04|34
+M1.05|Unión Provincial de Huelva|M1|33
+M1.05.01|Carteles|M1.05|34
+M1.06|Unión Provincial de Jaén|M1|33
+M1.06.01|Carteles|M1.06|34
+M1.07|Unión Provincial de Málaga|M1|33
+M1.07.01|Carteles|M1.07|34
+M1.08|Unión Provincial de Sevilla|M1|33
+M1.08.01|Carteles|M1.08|34
+M1.09|UGT-Andalucía|M1|33
+M1.09.01|Carteles|M1.09|34
+M1.10|Federación Agroalimentaria (FTA)|M1|33
+M1.10.01|Carteles|M1.10|34
+M1.11|Federación de Industrias Afines (FIA)|M1|33
+M1.11.01|Carteles|M1.11|34
+M1.12|Federación del Metal, Construcción y Afines (MCA)|M1|33
+M1.12.01|Carteles|M1.12|34
+M1.13|Federación de Servicios (FES)|M1|33
+M1.13.01|Carteles|M1.13|34
+M1.14|MATERIAL GRÁFICO. Federación de Servicios Públicos (FSP)|M1|33
+M1.14.01|Carteles|M1.14|34
+M1.14.02|Dípticos y pegatinas|M1.14|34
+M1.15|Federación de Trabajadores del Comercio, Hostelerí|M1|33
+M1.15.01|Carteles|M1.15|34
+M1.16|Federación de Trabajadores de la Enseñanza (FETE)|M1|33
+M1.16.01|Carteles|M1.16|34
+M1.17|Federación de Transportes, Comunicaciones y Mar (T|M1|33
+M1.17.01|Carteles|M1.17|34
+M1.18|Unión de Pequeños Agricultores (UPA)|M1|33
+M1.18.01|Carteles|M1.18|34
+M1.19|Unión de Prejubilados, Jubilados y Pensionistas (U|M1|33
+M1.19.01|Carteles|M1.19|34
+M1.20|Unión de Profesionales y Trabajadores Autónomos (U|M1|33
+M1.20.01|Carteles|M1.20|34
+M1.21|Fundación para el Desarrollo de los Pueblos de And|M1|33
+M1.21.01|Carteles|M1.21|34
+M1.99|Fundación Francisco Largo Caballero (FFLC)|M1|33
+M1.99.01|Carteles|M1.99|34
+M1.D1|Donaciones|M1|33
+M1.D1.01|Casado Solana, Javier|M1.D1|34
+M1.D1.02|Díaz Rodríguez, Miguel|M1.D1|34
+M1.D1.03|Fernández Delgado, Lucrecio|M1.D1|34
+M1.H1|Material Gráfico: Colección Histórica|M1|33
+M1.H1.01|Carteles|M1.H1|34
+M2|Colecciones Gráficas de Procedencia Externa||53
+M2.01|Colección Gráfica: Carteles|M2|54
+M2.01.01|Carteles|M2.01|55
+M2.D1|Donaciones|M2|54
+M2.D1.01|Casado Solana, Javier|M2.D1|55
+M2.D1.02|Díaz Rodríguez, Miguel|M2.D1|55
+M2.D1.03|Fernández Delgado, Lucrecio|M2.D1|55
+O1|Colección Oral: Archivo de la Memoria Viva||57
+O1.01|Fondo Oral|O1|58
+S1|Fonoteca||38
+S1.01|Unión Provincial de Almería|S1|39
+S1.02|Unión Provincial de Cádiz|S1|39
+S1.02.00|Sección|S1.02|40
+S1.03|Unión Provincial de Córdoba|S1|39
+S1.03.00|Sección|S1.03|40
+S1.04|Unión Provincial de Granada|S1|39
+S1.04.00|Sección|S1.04|40
+S1.05|Unión Provincial de Huelva|S1|39
+S1.05.00|Sección|S1.05|40
+S1.06|Unión Provincial de Jaén|S1|39
+S1.06.00|Sección|S1.06|40
+S1.07|Unión Provincial de Málaga|S1|39
+S1.07.00|Sección|S1.07|40
+S1.P1|Préstamos|S1|39
+S1.P1.07|Unión Provincial de Málaga|S1.P1|40
+V1|Videoteca||42
+V1.03|Unión Provincial de Córdoba|V1|45
+V1.03.00|Sección|V1.03|43
+V1.07|Unión Provincial de Málaga|V1|45
+V1.07.00|Sección|V1.07|43
+V1.09|UGT Andalucía|V1|45
+V1.09.00|Sección|V1.09|43

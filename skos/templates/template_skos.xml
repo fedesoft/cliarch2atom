@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+   {% for key, value in levels.items() %}
+
+    <skos:Concept rdf:about="http://192.168.1.15/{{key}}">
+
+              <skos:prefLabel xml:lang="en">{{value}}</skos:prefLabel>
+              <skos:prefLabel xml:lang="es">{{value}}</skos:prefLabel>
+
+    <skos:inScheme rdf:resource="http://192.168.1.15/levels-of-description"/>
+      
+    </skos:Concept>
+
+    {% endfor %}
+      
+</rdf:RDF>

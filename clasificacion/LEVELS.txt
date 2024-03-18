@@ -1,0 +1,38 @@
+1-Archivo Documental
+├── 3-Fondo Documental
+│   ├── 4-Sección Documental
+│   │   ├── 5-Subsección Documental
+│   │   │   ├── 6-Unidad de Subsección Documental
+│   │   │   │   └── 7-Serie Documental
+│   │   │   │       ├── 8-Subserie Documental
+│   │   │   │       │   └── 9-Unidad Documental
+│   │   │   │       └── 9-Unidad Documental
+│   │   │   └── 7-Serie Documental
+│   │   └── 7-Serie Documental
+│   └── 37-Subfondo Documental
+│       └── 4-Sección Documental
+├── 30-Colección Fotográfica
+│   └── 27-Sección de la Colección Fotográfica
+├── 11-Fondo Fotográfico
+│   └── 12-Sección Fotográfica
+│       └── 13-Reportaje Fotográfico
+│           └── 14-Unidad Fotográfica
+├── 29-Unidad Fotográfica de la Colección
+├── 33-Fondo Gráfico
+│   └── 34-Sección Gráfica
+│       └── 35-Unidad Gráfica
+├── 39-Fondo Sonoro
+│   └── 40-Sección Sonora
+│       └── 41-Unidad Sonora
+├── 45-Fondo Audiovisual
+│   └── 43-Sección Audiovisual
+├── 44-Unidad Audiovisual
+├── 48-Fondo de Procedencia Externa
+│   └── 49-Sección del Fondo de Procedencia Externa
+│       └── 51-Serie del Fondo de Procedencia Externa
+│           └── 50-Unidad Documental del Fondo de Procedencia Externa
+├── 54-Colección Gráfica de Procedencia Externa
+│   └── 55-Sección de la Colección Gráfica de Procedencia Ext
+│       └── 56-Unidad Gráfica de la Colección de Procedencia Exte
+└── 58-Fondo Oral
+    └── 59-Sección Oral
